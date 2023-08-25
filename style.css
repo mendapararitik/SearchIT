@@ -1,0 +1,229 @@
+:root{
+    --green:green;
+    --black:#130f40;
+    --Light-color: #666
+    --box-shadow: 0 .5rem 1rem rgba(0,0,0,1);
+    --border: 2rem solid rgba(0,0,0,1);
+    --outline: .1rem solid rgba(0,0,0,1);
+  }
+  *{
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+  }
+  html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 7rem;
+  }
+  body{
+    background: #DFD7BF;
+  
+  }
+  .btn{
+    border: .2rem solid var(--black);
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.7rem;
+    border-radius: .5rem;
+    color: var(--black);
+    cursor: pointer;
+    background: red;
+  }
+  .btn:hover{
+    background: #3F2305;
+    color: #fff;
+  }
+  .header{
+    border: 0px solid;
+    position: fixed;
+    height: 100px;
+    z-index: 1000;
+    top: 0; 
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 30px;
+    box-shadow: var(--box-shadow);
+  }
+  .header .logo{
+    font-size: 2.5rem;
+    font-weight: bolder;
+  }
+  .header .logo i{
+    color: white;
+  }
+  .header .navbar a{
+    font-size: 1.7rem;
+    margin: 0 1rem;
+    color: white;
+  }
+  .header .navbar a:hover{
+    color: var(--green);
+  }
+  .header .icons div{
+    border: 0px solid;
+    height: 4.5rem;
+    width: 4.5rem;
+    line-height: 4.5rem;
+    border-radius: .5rem;
+    background: #eee;
+    color: var(--black);
+    font-size: 2rem;
+    margin-right: .3rem;
+    text-align: center; 
+  }
+  .header .icons div:hover{
+    background: var(--green);
+    color: white;
+  }
+  .header .login-form{
+    border: 1px solid;
+    position: absolute;
+    width: 3rem;
+    top: 110%;
+    right: 2rem;
+    box-shadow: var(--box-shadow);
+    padding: 2rem;
+    border-radius: .5rem;
+    background: #fff;
+    text-align: center;
+  }
+  .header .login-form h3{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: var(--black);
+  }
+  p {
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  .contact p {
+    font-size: 10px;
+    line-height: 1.5;
+    color: rgb(0, 2, 2) ;
+    margin-bottom: 10px;
+  }  
+  #about-content{
+    width: 100%;
+    /* max-width: 600px;*/
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 4px;
+    opacity: 0.5;
+    
+  }
+  #contact-details {
+    width: 100%;
+    /* max-width: 600px;*/
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .contact {
+    margin-bottom: 20px;
+  }
+  
+  .contact h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .contact p {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .contact strong {
+    font-weight: bold;
+  }
+  
+  /* Contact link */
+  .contact a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  /* Custom CSS styles for the Organic Chemistry Videos Search Tool */
+  
+  /* Center the main heading */
+  h1.text-center {
+  text-align: center;
+  margin-top:20px;
+  }
+  
+  /* Center the search input and submit button */
+  .container-fluid {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  }
+  
+  .form-control.input-lg {
+  margin-top: 10px;
+  width: 300px;
+  max-width: 100%;
+  }
+  
+  .btn-secondary {
+  margin-top: 20px;
+  }
+  
+  /* Style the loading message */
+  .fs-4.mt-2 {
+  display: none;
+  }
+  
+  /* Style the response items */
+  #responseDiv {
+  margin-top: 50px;
+}
+  
+  h2 {
+  margin-bottom: 10px;
+  }
+  
+  a {
+  text-decoration: none;
+  }
+  
+  .btn-primary,
+  .btn-danger {
+  margin: 5px;
+  }
+  .container-fluid input{
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    width: 200px;
+  
+  }
+  .container-fluid button:hover {
+    background-color: #3F2305;
+  
+  }
+  .container-fluid button{
+    padding: 8px 12px;
+    background-color: #3F2305;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }

@@ -1,0 +1,3829 @@
+{
+  "Activating or Deactivating Benzene Ring": [
+    [
+      0,
+      "Hi everyone, in this lesson we are going to talk about groups that activate or deactivate benzene rings and how we can use the electronic effects to explain this phenomenon."
+    ],
+    [
+      13,
+      "So I think if you take a look at your data booklet, you will have realized that both the hydroxyl group and this halogen is able to act as 2,4 directing groups for the benzene ring."
+    ],
+    [
+      30,
+      "So that's because it contains a lone pair of electrons that can be pushed into the ring via resonance."
+    ],
+    [
+      39,
+      "And at the same time, we know that the hydroxyl group is activating while the bromine atom is deactivating."
+    ],
+    [
+      57,
+      "So how do we explain this? So we have understood that via resonance, the lone pair of electrons will be donated into the ring via the resonance effect."
+    ],
+    [82, "So both of them should be activating the ring."],
+    [
+      85,
+      "But on the other hand, we also know that carbon is less electronegative than this oxygen atom."
+    ],
+    [96, "So there is a delta plus and delta minus respectively."],
+    [101, "Because carbon is also less electronegative than halogen atoms."],
+    [
+      104,
+      "And what we realized is that there could be an inductive effect outwards too, pulling electrons this way."
+    ],
+    [
+      111,
+      "So I'll just label them I over here, and for resonance, I'll label it as R."
+    ],
+    [119, "So this is our third point here."],
+    [
+      123,
+      "Standard rules of electron withdrawing and donating effects applies."
+    ],
+    [
+      129,
+      "And finally, how do we know whether it is activating or deactivating? By looking at the data, we know that this is activating."
+    ],
+    [
+      137,
+      "Therefore, we know that the resonance effect beats the inductive effect."
+    ],
+    [
+      143,
+      "So the resonance electron donating effect outweighs the withdrawing effect via inductive effect."
+    ],
+    [
+      151,
+      "On the other hand, the other one will be deactivated, and it shows that the inductive effect is greater than the resonance effect."
+    ],
+    [164, "Just because both of them are competing with one another."],
+    [
+      168,
+      "So now we can see that using this idea of both inductive effect and resonance effect can help us to understand and explain why a ring substituent is activating, is ring activating, or whether it is ring deactivating."
+    ]
+  ],
+  "Electrophilic Substitution Part 3": [
+    [
+      0,
+      "Hi everyone, in the previous video we talked about how we can form the carbocation ion which is step 2."
+    ],
+    [8, "And we ended up with this carbocation ion here."],
+    [12, "So in our final step, we need to regenerate the original arene."],
+    [
+      19,
+      "So what is going to happen is that this hydrogen atom is going to leave and then we are going to form our final product over here."
+    ],
+    [30, "So this will be our final product and the hydrogen atom is lost."],
+    [
+      37,
+      "So how did this hydrogen atom actually disappear? So let's take a look at this third step here."
+    ],
+    [
+      44,
+      "So we have to remove the hydrogen atom and we need to take note that the catalyst needs to be regenerated."
+    ],
+    [
+      51,
+      "So how do we regenerate the catalyst? Take a look at this FeBr3, this was our catalyst and this is how our catalyst looks like in the middle of this reaction."
+    ],
+    [
+      64,
+      "So what is going to happen is that we are going to have our FeBr4- which looks like that."
+    ],
+    [
+      75,
+      "So this is FeBr4- and this FeBr bond is going to move and take away this hydrogen."
+    ],
+    [
+      87,
+      "So what kind of products will we get here? So notice this whole chunk will connect with my hydrogen atom."
+    ],
+    [95, "So this whole thing here will remain."],
+    [
+      100,
+      "So what is going to happen is that we are going to get two more products along with this."
+    ],
+    [106, "We are going to get HBr and we are also going to get FeBr3."],
+    [112, "And as you can see our catalyst has been regenerated."],
+    [116, "So this is a very crucial final step."],
+    [
+      122,
+      "One last thing to take note, you have to fill in the slow and the fast steps of this reaction to show which is the rate determining step."
+    ],
+    [
+      132,
+      "So this is how we can draw the electrophilic substitution mechanism."
+    ]
+  ],
+  "Delocalisation and Resonance": [
+    [
+      0,
+      "Hi everyone, in the last lesson we talked about how we can use the inductive effect to answer questions."
+    ],
+    [
+      6,
+      "In this lesson we are going to talk about delocalization and resonance. to answer questions. In this lesson we are going to talk about delocalization and resonance."
+    ],
+    [
+      12,
+      "Alright, so you would have come across the terms delocalization and resonance in your notes somewhere or another."
+    ],
+    [
+      24,
+      "Alright, so let me explain it to you.Alright, so previously we said that for inductive effect it goes through the sigma bond."
+    ],
+    [34, "Alright, this is for inductive."],
+    [
+      40,
+      "So this time around whenever we talk about resonance and delocalization, we are interested in the p-orbitals and the lone pairs of electrons overlapping."
+    ],
+    [
+      46,
+      "Alright, so you must have a p-orbital and lone pair of electrons overlapping in order for you to exhibit resonance and delocalization."
+    ],
+    [
+      58,
+      "So let's take a look at a few examples here.Alright, I think you should be able to notice that at each of these carbons here, they are all sp2 hybridized."
+    ],
+    [
+      71,
+      "Even this carbocation is sp2 hybridized.Alright, so therefore since they are all aligned, there is a form of delocalization."
+    ],
+    [78, "Alright, so this is how the pi electron clouds can interact."],
+    [
+      85,
+      "On the other hand, if we consider this example of a phenol, we have all our pi electrons, our p-orbitals in the benzene ring, and we also have a lone pair of electrons on oxygen, and this allows all of them to, allows the lone pair of electrons to delocalize."
+    ],
+    [103, "The same thing happens for this chlorine atom."],
+    [
+      109,
+      "Alright, because of its lone pair of electrons and its p-orbital, it is able to delocalize once again."
+    ],
+    [
+      117,
+      "And then lastly, take note that we have a pi bond here, so p-orbital, p-orbital, and then we have lone pairs of electrons here."
+    ],
+    [123, "Alright, so all these three things allow us to delocalize."],
+    [
+      132,
+      "Okay, so this is the idea behind delocalization where p-orbitals and lone pairs of electrons actually overlap."
+    ],
+    [139, "Okay, so let's go deeper and look at these examples."],
+    [
+      146,
+      "Alright, because sometimes we will know that electrons somehow seems to flow into the ring, delocalize in the ring, and sometimes it seems like electrons delocalize out of the ring."
+    ],
+    [
+      157,
+      "So let's try to understand this phenomenon.Alright, but just a word of caution, whatever I'm going to explain now is just the thought process, it's just for illustrative purposes, it is not exactly accurate."
+    ],
+    [172, "But I still see value in showing you that."],
+    [
+      180,
+      "Okay, so let's take a look at this.So let me erase everything off.Previously we have already established the fact that there will be delocalization and all of these things."
+    ],
+    [
+      184,
+      "So let's just do a very simple, let's just do some very simple mathematics here. things. So let's just do a very simple, let's just do some very simple mathematics here."
+    ],
+    [
+      192,
+      "So we know that we have a lot of p-orbitals here and in each p-orbital we have a certain number of electrons."
+    ],
+    [
+      202,
+      "So let's try to label them.So I have one here, one, one, one, one, one, and in this p-orbital here, there is zero."
+    ],
+    [
+      202,
+      "So I have seven atoms, six electrons. one, and in this p-orbital here, there is zero. So I have seven atoms, six electrons."
+    ],
+    [
+      215,
+      "In the second case, I have one, one, one, one, one, and one in the p-orbital."
+    ],
+    [
+      220,
+      "Here I have a lone pair, so I have seven atoms and eight electrons."
+    ],
+    [
+      231,
+      "Likewise, for this example we also have seven atoms and eight electrons."
+    ],
+    [
+      240,
+      "So which are the seven? These are the seven that allows us to delocalize."
+    ],
+    [
+      248,
+      "So I have one, one, one, one, one, one, and two here.So take note, I am only interested in the p-orbitals that overlap, so I am not interested in these other bonds here and I'm not interested in this hydrogen atom."
+    ],
+    [260, "Just the p-orbitals and the lone pair of electrons."],
+    [
+      269,
+      "And then in our last example, we have one here, one here, and two here."
+    ],
+    [
+      275,
+      "So this is a lone pair of electrons, this is the p-orbital, this is the p-orbital, one electron, one electron gives us the pi bond."
+    ],
+    [
+      283,
+      "For the last example, I'm not going to talk too much about the number of atoms and the charges, but I hope that in these two examples, in the first two examples, you are able to see that if I have seven atoms and six electrons, the final electron density of all my atoms will be six over seven."
+    ],
+    [
+      303,
+      "So I take the number of electrons divided by the total number of atoms."
+    ],
+    [
+      309,
+      "And as you can see, this carbocation here started off with zero, now it has six over seven electrons."
+    ],
+    [
+      318,
+      "So this shows that now the electrons have flowed, have just flowed into this carbocation."
+    ],
+    [
+      329,
+      "And then in the ring, it went from one to six over seven electrons."
+    ],
+    [
+      334,
+      "That's the reason why we say that the electron density actually flowed towards this carbocation."
+    ],
+    [340, "Whereas in the other case, now we have eight over seven electrons."],
+    [
+      348,
+      "So the oxygen atom went from two to eight over seven, which is decreased, while the ring went from one to eight over seven electrons, which is an increase."
+    ],
+    [
+      365,
+      "So this illustration should show you why the electrons in this example, in the example of a carbocation, the electrons flow out of the ring into this carbocation."
+    ],
+    [
+      372,
+      "Whereas in the other example, it flows from the oxygen atom into the ring. carbocation. Whereas in the other example, it flows from the oxygen atom into the ring."
+    ],
+    [380, "So this is to explain the difference."],
+    [
+      386,
+      "However, the reason why I said this is just an illustration and not completely true is because we haven't really taken into account of the electronegativity difference."
+    ],
+    [
+      391,
+      "And this is going to affect where the electron actually lies. difference. And this is going to affect where the electron actually lies."
+    ],
+    [397, "So let's take a look at phenol versus our carboxylate."],
+    [
+      405,
+      "So in the next few lessons, you'll learn about the stability of conjugate bases which will determine the acidity of a weak acid."
+    ],
+    [
+      422,
+      "So we want to compare the common two examples that we compare is phenoxide and this carboxylate."
+    ],
+    [
+      432,
+      "So what we say is that the lone pairs of electrons, or rather the negative charge is delocalized into the ring."
+    ],
+    [
+      441,
+      "So it is dispersed.Likewise, we say that this negative charge is dispersed between these two atoms."
+    ],
+    [
+      441,
+      "That is why the conjugate base is more stable. charge is dispersed between these two atoms. That is why the conjugate base is more stable."
+    ],
+    [
+      448,
+      "But we know that a carboxylate ion is more stable as a conjugate base than phenol."
+    ],
+    [
+      456,
+      "And this reason is because of the more electronegative oxygen atom."
+    ],
+    [
+      465,
+      "So because both of these are delta minus, so this tug of war shows that both of them actually share it to almost the same extent."
+    ],
+    [
+      474,
+      "So the electron density is more or less concentrated towards the center. same extent. So the electron density is more or less concentrated towards the center."
+    ],
+    [
+      481,
+      "Whereas in the other case, most of the electron density on this oxygen atom still stays near oxygen even though it is delocalized into the ring because oxygen is more electronegative compared to the rest of the carbon atoms."
+    ],
+    [
+      507,
+      "So you have to take into account both the electronegativity difference and also the number of electrons within this whole system."
+    ],
+    [513, "So the idea of resonance is not that simple."],
+    [
+      520,
+      "So if you are confused, do watch this video again to make sense of it."
+    ],
+    [520, "Thank you. again to make sense of it. Thank you."]
+  ],
+  "Identifying SN1 or SN2": [
+    [
+      0,
+      "Hi everyone, welcome to the lesson on how to draw the nucleophilic substitution mechanism."
+    ],
+    [7, "So there are two things behind this mechanism."],
+    [11, "You have the SN1 mechanism and you have the SN2 mechanism."],
+    [
+      15,
+      "So what SN1 means is that it is a first order reaction, while SN2 means it is a second order reaction."
+    ],
+    [22, "So that is something that you need to take note of."],
+    [25, "So I will explain more as we go on."],
+    [
+      28,
+      "So the first thing that we need to do before drawing any of these mechanisms is to identify which mechanism we are looking at."
+    ],
+    [
+      35,
+      "So is it SN1 or SN2? So how do we do that? So we can either look at the kinetics data like I mentioned just now."
+    ],
+    [44, "SN1 means it is first order, SN2 means it is second order."],
+    [52, "So basically you can see that from the red equation."],
+    [
+      57,
+      "After that we can look at the number of groups attached to the carbon that is connected to the halogen."
+    ],
+    [66, "If it is a primary RX, we get SN2."],
+    [71, "Tertiary, we get SN1."],
+    [73, "For secondary, it can be SN1 and or SN2."],
+    [77, "And it really depends on the red equation."],
+    [
+      79,
+      "So the first thing that you have to look at is the red equation if it is present."
+    ],
+    [
+      83,
+      "If it is not present, then usually it is either primary or tertiary."
+    ],
+    [88, "So let's take a look at the example at the bottom."],
+    [
+      91,
+      "You will be able to see that from the red equation, this is red is equal to K times RX."
+    ],
+    [99, "So this is my first order."],
+    [103, "So first order."],
+    [105, "So if it is first order, it will be SN1."],
+    [110, "The second example here on the right, you have 1, 2."],
+    [
+      114,
+      "So since they are both to the power 1, it is second order reaction."
+    ],
+    [121, "So since it is a second order reaction, this is SN2."],
+    [126, "So this is the first step to identify whether it is SN1 or SN2."]
+  ],
+  "Answering synthesis questions": [
+    [
+      0,
+      "Hi everyone, in this lesson I'm going to share with you how you can tackle synthesis questions."
+    ],
+    [
+      5,
+      "Alright, so for you to be able to tackle synthesis questions, the key idea behind it is to find out what is the transformation in its functional group."
+    ],
+    [
+      16,
+      "Alright, so I'm going to share with you some key points behind answering this style of questions."
+    ],
+    [
+      22,
+      "The first thing is for you to identify the changes in the functional groups."
+    ],
+    [
+      27,
+      "By identifying the changes in the functional groups, you can identify the type of reaction that has happened."
+    ],
+    [
+      34,
+      "Alright, so one particular trick that I usually use is that I would match it to the relevant chapter."
+    ],
+    [
+      40,
+      "So for example, if a substituent is added to a benzene ring, I would most likely think that it is an electrophilic substitution mechanism."
+    ],
+    [
+      52,
+      "Alright, so if you take a look at this example over here, we see that we know that this is an RX, so there's a high chance that it is either a nucleophilic substitution mechanism or elimination reaction."
+    ],
+    [
+      67,
+      "So we see that the Cl atom is replaced by this CN group, so it is most probably nucleophilic substitution."
+    ],
+    [
+      73,
+      "Alright, another method is for you to count the different atoms and how these atoms change from the reactant to the product."
+    ],
+    [
+      81,
+      "So by counting this number of atoms, you could tell if there is a reaction that has occurred."
+    ],
+    [
+      87,
+      "So for example, if you see that a small molecule like HCl is involved, it is either substitution, elimination, or condensation."
+    ],
+    [93, "Alright, so let's take a look at two of these examples here."],
+    [99, "So in both of these examples, HCl is produced as the product."],
+    [
+      106,
+      "So you want to know what has happened here.Alright, so if you compare the first, if you take a look at the first example, you will see that from the reactant to product, only one hydrogen and one chlorine is lost."
+    ],
+    [
+      119,
+      "So if these two things are lost from the reactant and nothing else has happened, it is most probably an elimination reaction."
+    ],
+    [
+      126,
+      "Likewise, in the second example, if we notice, the Cl is gone and then this molecule actually becomes a little bigger."
+    ],
+    [
+      141,
+      "Alright, so this suggests that it is a condensation reaction because the molecule has expanded in size."
+    ],
+    [
+      149,
+      "And what happened was that I have a small molecule that is removed."
+    ],
+    [
+      154,
+      "So that is my condensation reaction and most probably the thing that reacted with this molecule here."
+    ],
+    [
+      161,
+      "Alright, I need a source for the OCH3.Alright, this is the blue portion and then I also need the H for the HCl."
+    ],
+    [168, "So this is where my H comes from.Alright, so this is methanol."],
+    [
+      174,
+      "Alright, so just by looking at the different functional groups or counting the number of atoms, we can answer synthesis questions."
+    ]
+  ],
+  "Enantiomers Diasteromers and Meso Compounds": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about enantiomerism and we are going to use this molecule here as the example."
+    ],
+    [
+      9,
+      "Alright so before I talk about enantiomerism using the molecule I will start by going through some key points okay so for a molecule to have an enantiomer, it must have chiral carbon or chiral carbons, it must also have no internal plane of symmetry and if the molecule has more than one chiral carbon and it has an internal plane of symmetry it is considered a miso compound."
+    ],
+    [
+      37,
+      "What this means is that its mirror image is exactly the same as itself or rather the mirror image is superimposable so I can take the mirror image and put it on top of the first compound and they will be the same thing and we will get a diastereomer."
+    ],
+    [
+      57,
+      "When we get stereoisomers they are not mirror images of one another and they are not superimposable on one another so this is different from enantiomer."
+    ],
+    [
+      67,
+      "Enantiomers are non-superimposable but they are mirror images of one another."
+    ],
+    [
+      73,
+      "Alright so let's use this molecule as an example so the first thing I would like to do is to identify if this molecule has chiral carbons and we can see that if you take this carbon as a reference you'll know that there's also another hydrogen atom here so I have one group, two groups and now we want to see whether the remaining two groups connected to the carbon is different so I will just draw a line here to divide this ring into two equal halves."
+    ],
+    [
+      103,
+      "So I realized that on this end on the left side and on the right side it actually looks different so therefore this carbon here has four distinct groups connected to it therefore this shows that this carbon is chiral."
+    ],
+    [
+      113,
+      "Likewise this carbon is also chiral if you do the same process. chiral. Likewise this carbon is also chiral if you do the same process."
+    ],
+    [
+      119,
+      "Okay so the next step we need to do is to draw out this structure based on its wedge and dashes so I can have one molecule that looks like that and have one molecule that looks like this."
+    ],
+    [
+      137,
+      "Alright so notice this also looks like your cis-trans isomer in this case since it falls under both cis-trans and enantiomerism you just have to choose one because both of them are your stereoisomers."
+    ],
+    [
+      153,
+      "Alright so if you were to flip this molecule around, just flip it upside down you would notice that you will get these two structures right so there is no need to draw these two structures because they are exactly they are superimposable they are not really isomers so these two things are superimposable this is superimposable all I did was I flipped it 180 degrees alright so I'm only going to consider the two cases at the top."
+    ],
+    [
+      181,
+      "Okay so let's let's try to see whether we can use this concept in in to find out our enantiomers, meso-compounds and diastereomers."
+    ],
+    [
+      190,
+      "So I'm going to shift this molecule here and we are going to draw both of their enantiomers."
+    ],
+    [
+      198,
+      "Alright so I'm going to draw the mirror plane and enantiomerism is just I just what I do is I just copy right the bonds down right and what I want you to realize is that if I were to take this molecule here rotate it slightly towards the clockwise direction okay it would get this molecule."
+    ],
+    [
+      235,
+      "Alright what this means is that this here is actually your meso-compound."
+    ],
+    [
+      242,
+      "These two things here are your meso-compounds.Why is that so? Remember just now I mentioned that a meso-compound has more than one chiral carbon and an internal plane of symmetry."
+    ],
+    [
+      252,
+      "Alright so let's find the internal plane of symmetry this is the internal plane of symmetry."
+    ],
+    [
+      257,
+      "Notice the word that I use here is internal plane and not internal line of symmetry."
+    ],
+    [
+      261,
+      "Because a line allows us to rotate around it but a plane cuts it into two pieces."
+    ],
+    [
+      272,
+      "So I'm going to draw it again so if I draw this line here I'll notice that there is an internal plane of symmetry therefore its reflection its mirror image is superimposable on itself."
+    ],
+    [281, "So that's why this is not really an isomer."],
+    [
+      290,
+      "And we also know that these two things their relationship that they are enantiomers."
+    ],
+    [
+      295,
+      "They are non-superimposable you can try taking this molecule on the right and try to flip it around you will never ever get this structure on the left."
+    ],
+    [
+      307,
+      "So these are enantiomers, they are mirror images, they are non-superimposable."
+    ],
+    [
+      310,
+      "And what I want you to realize is that these two molecules here and these two molecules here, these two sets of molecules they are not superimposable at all."
+    ],
+    [
+      328,
+      "And at the same time the green arrow shows that those two molecules are also not mirror images of one another."
+    ],
+    [
+      333,
+      "Therefore in all my green arrows I will consider them my diastereomers."
+    ],
+    [
+      340,
+      "So this is how you can identify the total number of enantiomers, diastereomers, meso-compounds."
+    ],
+    [
+      347,
+      "So if a question ever asks you, what is the total number of stereoisomers for this? You will say you have 1, 2 and 3."
+    ],
+    [
+      360,
+      "Because the last one is the exact same one as number 3 so we don't consider it because it is a meso-compound."
+    ],
+    [
+      374,
+      "So this is how we can explain enantiomerism, meso-compound and diastereomers."
+    ]
+  ],
+  "Electrophilic addition part 2": [
+    [
+      0,
+      "Hi everyone, in the previous lesson on electrophilic addition mechanism, we talked about how we can identify the electrophile and how we can draw the arrows to get our intermediate."
+    ],
+    [
+      12,
+      "So in this lesson, we are going to talk about the different intermediates and to identify the most stable intermediate."
+    ],
+    [
+      19,
+      "So we ended last lesson with this structure and so there are two intermediates that we can form."
+    ],
+    [
+      26,
+      "One of it is Br connected to the left and the carbocation is formed with the positive charge on the other carbon."
+    ],
+    [
+      34,
+      "Whereas in the other case, our Br is connected to this carbon here and you get a positive charge on the other end."
+    ],
+    [
+      43,
+      "So these are the two intermediates that we have and we need to see which of them is more stable."
+    ],
+    [
+      50,
+      "So how do we decide which of it is more stable? We need to see which group, which carbocation allows us to disperse the positive charge more."
+    ],
+    [
+      62,
+      "So if you take a look here, you will see a positive charge on this carbon and what we want to do is we want to disperse this charge."
+    ],
+    [
+      71,
+      "We don't want all the positive charge to stay on that carbon and we know that our alkyl groups are electron donating so I would like to highlight them."
+    ],
+    [81, "So I have one alkyl group here and two alkyl groups here."],
+    [
+      86,
+      "So what we can see is that the alkyl groups, if it donates electrons, it's electron donating so it donates electron density, what it can do is that it puts in more negative charge per se into this carbocation and what happens is that in a certain sense it will disperse the positive charge away."
+    ],
+    [
+      106,
+      "So the one on the left has two R groups but the one on the left only has one R group."
+    ],
+    [
+      116,
+      "So with that we can conclude that for the example on the left, the positive charge is more dispersed and that's why when we say when the carbocation is more substituted, we actually get a stronger dispersal of charges and this over here will be more stable."
+    ],
+    [
+      143,
+      "And because it's more stable, it is most probably going to give us our major product."
+    ]
+  ],
+  "SN1 mechanism": [
+    [
+      0,
+      "Hi, in the last lesson we talked about how we can identify if the mechanism is SM1 or SM2."
+    ],
+    [
+      6,
+      "So in this lesson we are going to focus on the SM1 mechanism. SM1 or SM2. So in this lesson we are going to focus on the SM1 mechanism."
+    ],
+    [
+      12,
+      "Alright so the SM1 mechanism, since the rate equation is first order and there's only Rx present, that means there should be a slow step and there should be a fast step."
+    ],
+    [
+      25,
+      "And the slow step requires your Rx. there should be a fast step. And the slow step requires your Rx."
+    ],
+    [30, "So the first thing that we have to do is to form the carbocation."],
+    [37, "So let's take a look at this."],
+    [
+      41,
+      "So what happens here, I have three groups attached to this molecule."
+    ],
+    [
+      47,
+      "This is going to break off first.What am I going to get after that? I'm going to get R1, R2 and R3."
+    ],
+    [
+      47,
+      "And then there's a positive charge here. after that? I'm going to get R1, R2 and R3. And then there's a positive charge here."
+    ],
+    [55, "This carbon at the center is sp2 hybridized."],
+    [68, "Okay so just imagine that it is just flat on a piece of paper."],
+    [
+      75,
+      "So you can either approach it from outside the plane or approach it from the back of the plane."
+    ],
+    [79, "So imagine you put this piece of this thing on a piece of table."],
+    [
+      84,
+      "So you can either come from the top of the table or you can go from the bottom of the table."
+    ],
+    [89, "So we know that this is actually flat."],
+    [
+      89,
+      "Since it's sp2, it is trigonal planar. that this is actually flat. Since it's sp2, it is trigonal planar."
+    ],
+    [
+      97,
+      "So what is going to happen is that this OH- in the second step, it is going to attack this positive carbon."
+    ],
+    [
+      104,
+      "So this is a very important step. is going to attack this positive carbon. So this is a very important step."
+    ],
+    [114, "And this is the fast step."],
+    [
+      121,
+      "And the thing is because it is trigonal planar, you can either attack from the top or from the bottom like what I mentioned just now."
+    ],
+    [
+      130,
+      "So if you attack from the bottom, it will give you another product."
+    ],
+    [
+      130,
+      "So what we get is finally this R1, R2, R3. give you another product. So what we get is finally this R1, R2, R3."
+    ],
+    [140, "OH."],
+    [
+      140,
+      "And at the other end, I should be able to get another R1, R2, R3. OH. And at the other end, I should be able to get another R1, R2, R3."
+    ],
+    [150, "Of course this does not take into account the stereochemistry."],
+    [
+      155,
+      "So we have to change two of the bonds to give us our wedge and dash."
+    ],
+    [164, "So this is what we will get."],
+    [
+      170,
+      "And then finally this is what we will get.And what you realize is that it forms a pair of enantiomers."
+    ],
+    [
+      177,
+      "But because it is planar, there's a 50-50 chance of attacking either the top or the bottom."
+    ],
+    [183, "That is why you will eventually lead to a arithmic mixture."],
+    [
+      191,
+      "So if it is a arithmic mixture, what's going to happen is that it will now be..."
+    ],
+    [199, "it is now unable to rotate plane polarized light."],
+    [
+      199,
+      "So it cannot rotate plane polarized light. plane polarized light. So it cannot rotate plane polarized light."
+    ],
+    [214, "So this is the SN1 mechanism."],
+    [
+      214,
+      "So it will reach arithmic mixture. So this is the SN1 mechanism. So it will reach arithmic mixture."
+    ],
+    [221, "But there's one more thing that I want to discuss about."],
+    [225, "It is about the stability of the carbocation."],
+    [
+      234,
+      "So why would tertiary alkyl halides undergo SN1 compared to primary? So let's take a look here."
+    ],
+    [
+      240,
+      "So this is what let's say a primary reaction, a primary alkyl halide undergoes SN1 versus a tertiary."
+    ],
+    [
+      253,
+      "I hope you are able to see that for the primary alkyl halide, there's only one R group that's going to donate electrons."
+    ],
+    [
+      265,
+      "But in the tertiary alkyl halide, tertiary carbocation, you have three R groups that are going to donate electrons."
+    ],
+    [271, "So because of this, the one on the right has a better..."],
+    [
+      277,
+      "is more stable.So because it's more stable, it's more likely to be formed."
+    ],
+    [
+      282,
+      "Another reason is because if you compare the angles, tetrahedral, the angle is around 109.5 degrees."
+    ],
+    [290, "In trigonal planar, it is 120 degrees."],
+    [
+      298,
+      "So what this means is that you have more space, the groups are more spaced out in this second molecule."
+    ],
+    [
+      310,
+      "And because it is more spaced out, it is easier for the incoming nucleophile to attack this position."
+    ],
+    [318, "So because it's more spaced out, there is less steric hindrance."],
+    [
+      327,
+      "So why is this important? Because if we have a very big R group, if the R group is big, three R groups there is going to exhibit a lot of steric hindrance."
+    ],
+    [
+      339,
+      "But if two of them are hydrogen atoms, they don't really take up a lot of space, so steric hindrance is not that much of an issue."
+    ],
+    [
+      348,
+      "So just think of these two things.This is the...number one is the electronic effect, and number two is the steric effect."
+    ],
+    [353, "These two usually come together in a pair."],
+    [
+      353,
+      "So this is the SM1 mechanism. usually come together in a pair. So this is the SM1 mechanism."
+    ]
+  ],
+  "Useful intermediates": [
+    [
+      0,
+      "Hi everyone, in this lesson we are going to continue with synthesis questions and I'm going to talk about some useful intermediates."
+    ],
+    [
+      9,
+      "So I hope this is able to help you with how you answer your synthesis questions."
+    ],
+    [14, "So there are a couple of useful intermediates."],
+    [
+      16,
+      "We have the alkynes, we have alkyl halides, alcohols and acyl chlorides."
+    ],
+    [21, "For alkynes, they allow you to change your functional groups."],
+    [
+      24,
+      "So for example, if I have an alcohol, I can turn it back to an alkene and then I can do many things with it."
+    ],
+    [36, "It will allow me to change my functional group."],
+    [39, "It also allows me to add functional groups."],
+    [
+      40,
+      "So for example, if I have an alkene, I can turn it into an R-X, I can turn it into an alcohol and so on."
+    ],
+    [
+      48,
+      "I can even add two functional groups to it if I convert it to a dichloroalkene."
+    ],
+    [59, "So that is how I can add functional groups."],
+    [62, "You can also add functional groups with different reactivities."],
+    [
+      65,
+      "So for example, if I use an alkene and I form a bromohydrin, these two groups here will undergo different reactions."
+    ],
+    [77, "Next up, for alkenes, we can also cleave it."],
+    [
+      83,
+      "So if we use hot acidified KMnO4, we will cut this thing up and we will get two of these molecules."
+    ],
+    [
+      89,
+      "So to cut C-C carbon-carbon bonds, you can convert them to alkenes first."
+    ],
+    [95, "And of course, I can also switch the position of functional groups."],
+    [
+      99,
+      "So for example, if my chlorine atom is here, I can turn it into this intermediate and finally, if I add HCl again, I will be able to get this thing."
+    ],
+    [112, "So this first step is elimination."],
+    [117, "Then the second step is my electrophilic addition."],
+    [120, "So this is a way for you to transfer your functional groups."],
+    [
+      126,
+      "So other than alkenes, we also talked about the halides, alkyl halides."
+    ],
+    [131, "So alkyl halides allow you to do step-up reactions."],
+    [
+      135,
+      "It allows you to convert to alcohols, allows you to convert to alkenes."
+    ],
+    [139, "So it's a very good intermediate."],
+    [
+      142,
+      "And for alcohols, why do we want to use them? Because they can convert, they can be converted to alkenes, they can also be converted to alkyl halides."
+    ],
+    [
+      151,
+      "And one very special thing about them is that they can undergo oxidation."
+    ],
+    [
+      155,
+      "Lastly, if you talk about acyl chlorides, it helps you to convert to other acid derivatives."
+    ],
+    [162, "So that makes it very useful."],
+    [
+      164,
+      "So for example, if I have an amide, the only way for me to get an amide is to get it from an acyl chloride plus ammonia."
+    ],
+    [
+      176,
+      "I cannot get it from reacting a carboxylic acid with ammonia because I have a base here and I have an acid here, and then I will get an acid-base reaction."
+    ],
+    [190, "So this reaction does not occur."],
+    [
+      194,
+      "Instead I can do the reverse reaction of hydrolysis to get this, and then I can react with reagents such as PCl5, SOCl2 to get my acyl chloride."
+    ],
+    [
+      208,
+      "So I just want you to take note that acyl chlorides is a useful tool for the conversion of different acid derivatives."
+    ],
+    [
+      220,
+      "And so I hope that this lesson on the different intermediates can actually help you to answer some of your synthesis questions."
+    ],
+    [229, "Thank you."]
+  ],
+  "Steric Effect": [
+    [
+      0,
+      "Hi everyone, in the previous few lessons we talked about stereo isomerism and how it is dependent on the geometry of our reactants, intermediates and products."
+    ],
+    [
+      13,
+      "Prior to that we also talked about the electronic effects like our inductive effect and our resonance effect."
+    ],
+    [
+      20,
+      "So often the stereo effect comes hand in hand with those electronic effects."
+    ],
+    [
+      24,
+      "So I'm going to use this example of a train station to explain what stereo effect means."
+    ],
+    [
+      31,
+      "So basically, if the train station is crowded like what you see in this picture, it means that it is difficult for us to enter the train."
+    ],
+    [
+      39,
+      "Likewise in chemistry, if the site is crowded, the reaction is less likely to happen and this is what we call steric hindrance."
+    ],
+    [53, "So this is the keyword that we will use, steric hindrance."],
+    [57, "So there are a couple of points that we need to consider."],
+    [60, "The first point is the number of R-groups."],
+    [
+      62,
+      "So the more R-groups you have, the more crowded that particular site is, so it's harder for reactions to happen."
+    ],
+    [
+      71,
+      "You can have the same number of R-groups and you can have a very big R-group there, so it will actually block up the site."
+    ],
+    [
+      79,
+      "Sometimes you can have the same number of carbons, but the branched group will hinder it more."
+    ],
+    [
+      88,
+      "And also, the last point is the shape of the central atom and the bond angle also matters."
+    ],
+    [95, "So let's take a look at a few of these examples."],
+    [
+      98,
+      "So in this example here, it has two R-groups connected to this molecule."
+    ],
+    [
+      104,
+      "However, we know that the shape here is tetrahedral, so it is 109.5 degrees, whereas in this case, it is trigonal planar."
+    ],
+    [
+      119,
+      "And we know that it can attack either from the top or from the bottom, and we know that this angle is very wide, so it's easier for the groups to attack, and it is way easier than 109.5 degrees."
+    ],
+    [131, "So this reaction here has less steric hindrance."],
+    [
+      135,
+      "Likewise, in the other case here, we have three R-groups and zero R-groups here."
+    ],
+    [
+      144,
+      "This means that the molecule on the left is more sterically hindered, so for a nucleophile to attack the molecule on the left, it is much more difficult."
+    ],
+    [
+      159,
+      "And that is the reason why the molecule on the left, if it's a tertiary alkyl halide, it would rather undergo the SN1 mechanism to form the carbocation first, because if you notice, this carbocation is also trigonal planar."
+    ],
+    [
+      178,
+      "So compared to the 109.5 degrees, what we did was we fanned it out, we opened it up now, so it decreases the steric hindrance."
+    ],
+    [
+      190,
+      "And also, if we combine this with our electronic effects, we will see that we have three electron donating groups here, which helps to disperse the positive charge in our carbocation."
+    ],
+    [
+      202,
+      "So I hope that through this example, you can see how steric effect and electron effect should both be considered in the case of SN1 mechanism."
+    ]
+  ],
+  "Drawing ring structures": [
+    [
+      0,
+      "Hi everyone, today I'm going to teach you how to draw ring structures for skeletal formula."
+    ],
+    [
+      7,
+      "Alright, so over here we have this molecule, this intermediate which is our second step of our electrophilic substitution mechanism."
+    ],
+    [
+      17,
+      "Okay, so we want to form a ring here and these are the steps that we can take to draw the ring."
+    ],
+    [
+      23,
+      "So we would need to choose a starting point for us to draw the ring."
+    ],
+    [27, "So in this case, I will choose maybe this to be the starting point."],
+    [
+      31,
+      "The choice of the starting point is totally up to you, you can choose any point you want."
+    ],
+    [36, "Next, I'm going to count the number of atoms in the ring."],
+    [
+      39,
+      "So I'm going to choose another color and I'm going to label this as position 1, atom number 2, atom number 3, 4 and 5."
+    ],
+    [
+      49,
+      "So this is where the bond is going to be formed and where is it connected to? It's connected to this point."
+    ],
+    [
+      53,
+      "Alright, so it is at position 6. It's connected to this point. Alright, so it is at position 6."
+    ],
+    [
+      58,
+      "Alright, so your job is to count the number of atoms that will be in the ring."
+    ],
+    [63, "And lastly, you have to decide on the shape of the ring."],
+    [66, "And this time around, we know that for 6 atoms, it is a hexagon."],
+    [
+      70,
+      "So in order for us to draw a hexagon, we know that the final product should look..."
+    ],
+    [
+      74,
+      "should be connected from carbon 5 to 6 and then the shape must be a hexagon."
+    ],
+    [79, "So I will just choose this group first, alright, to keep it there."],
+    [84, "Followed by drawing a hexagon over here."],
+    [88, "So I want to check whether I have the correct number of bonds."],
+    [91, "So I'm going to count 1, 2, 3, 4, 5, 6 in this ring."],
+    [97, "And I need to know where the C double bond O group is."],
+    [101, "Alright, and it's on position number 5."],
+    [
+      103,
+      "Alright, so this product, if I want to draw it out, the final answer should be..."
+    ],
+    [110, "this."]
+  ],
+  "Nucleophilic Addition Mechanism": [
+    [
+      0,
+      "Hi everyone, today I'm going to share with you how you can draw the nucleophilic addition mechanism."
+    ],
+    [7, "Alright, so there are a couple of key points in this lesson."],
+    [
+      10,
+      "Alright, so the first thing that we have to do is to identify the delta positive carbon."
+    ],
+    [
+      16,
+      "So what do I mean by delta positive carbon? Alright, so take a look at this carbonyl compound here."
+    ],
+    [
+      21,
+      "Alright, I think you should be able to tell that the oxygen atom is more electronegative."
+    ],
+    [27, "Alright, so you'll pull the electrons towards itself."],
+    [30, "Okay, so this gives this carbon a delta positive charge."],
+    [34, "Alright, the carbon that is connected directly to the oxygen."],
+    [38, "So you'll get a delta minus here and a delta minus here."],
+    [
+      42,
+      "Alright, so this is the first step to identify the delta positive carbon."
+    ],
+    [
+      46,
+      "And in this very special example, we have to see which is the more electrophilic side."
+    ],
+    [53, "Alright, so this mechanism is called nucleophilic addition."],
+    [
+      53,
+      "So the group that is attacking is our nucleophile. Alright, so this mechanism is called nucleophilic addition. So the group that is attacking is our nucleophile."
+    ],
+    [58, "And so this other group is my electrophile."],
+    [62, "So you want to see which of these sides is the most electrophilic."],
+    [
+      66,
+      "So let's say I only have one mole of this reactant and one mole of this reactant."
+    ],
+    [
+      74,
+      "So I should at the end only either add to the one on the left or the one on the right."
+    ],
+    [
+      80,
+      "Alright, so how do I decide? I have to see which has a stronger delta plus."
+    ],
+    [
+      85,
+      "So if I take a look at the groups that are connected to the delta plus carbon, you can see that the one on the left, also a ketone, has two electron donating groups."
+    ],
+    [
+      97,
+      "So it diminishes this delta positive charge to a larger extent than the one in the aldehyde."
+    ],
+    [
+      105,
+      "Because the aldehyde only has one electron donating group that gives electrons to it."
+    ],
+    [
+      111,
+      "Alright, so that's why I can, from this example, I can identify that what I'm interested in is this aldehyde over here."
+    ],
+    [
+      119,
+      "Alright, so that's the first step to identify the delta positive carbon."
+    ],
+    [
+      123,
+      "So in the second step, we have to push the electrons from the nucleophile to the delta positive carbon."
+    ],
+    [
+      130,
+      "And so in this case, our electrons come from, we need a little bit of CN- to kickstart this reaction."
+    ],
+    [
+      140,
+      "And notice the negative charge is on this carbon atom, because the carbon atom is going to be connected to this position here."
+    ],
+    [
+      147,
+      "So how should I draw the arrows? I always start from the electron source to the electron sink."
+    ],
+    [
+      154,
+      "Alright, and then now this carbon has, inclusive of this hydrogen, you have five bonds."
+    ],
+    [
+      161,
+      "So you cannot have five bonds, so you have to push one other bond up and it should end up on the O atom."
+    ],
+    [167, "So the negative charge ends up on the oxygen atom."],
+    [172, "Alright, so what you will have at the end of the day is this."],
+    [
+      172,
+      "Alright, with a CN group here. Alright, so what you will have at the end of the day is this. Alright, with a CN group here."
+    ],
+    [
+      186,
+      "Okay, so this is where this special part of the mechanism comes in."
+    ],
+    [
+      192,
+      "So here is CN, alright, will come to the rescue, because it has a proton that can be donated to this O- atom."
+    ],
+    [
+      206,
+      "Alright, so this is the slow step, this is the fast step, I will end up with this product, which is a cyanohydrin."
+    ],
+    [
+      230,
+      "Okay, so the thing that we have to look at, at this point in time is, why do we need this proton here? Alright, so assuming we don't have this proton here, what is going to happen is, this pair of electrons is going to come back here and kick this CN out."
+    ],
+    [250, "So, all together at the end, we are going to get this product."],
+    [259, "Alright, so if this step occurs, we are going back to square one."],
+    [265, "So that is why it is very important for you to have HCN present."],
+    [
+      269,
+      "So if you contrast this to your nucleophilic substitution mechanism, which uses purely CN-, you should be able to see why there is a need for this HCN."
+    ],
+    [280, "So, this is the nucleophilic addition mechanism."]
+  ],
+  "Ring Opening": [
+    [
+      0,
+      "Hi everyone, in this lesson we are going to talk about how we can draw the skeletal structure after cleaving open a ring."
+    ],
+    [8, "Alright, so let's take a look at this analogy of a rubber band."],
+    [13, "Let's say I were to cut it open."],
+    [15, "Alright, I were to cut the rubber band."],
+    [17, "What I would see at the end of the day is just one single line."],
+    [22, "Alright, so this is the same idea behind ring opening."],
+    [
+      25,
+      "Okay, so over here we have hot acidified KMnO4 which is used for oxidative cleavage of our alkene."
+    ],
+    [
+      37,
+      "So if you don't understand this oxidative cleavage and if you don't know how to do such questions please refer to the video on oxidative cleavage with hot acidified KMnO4."
+    ],
+    [
+      50,
+      "Alright, so what is going to happen is that it is going to cut open this alkene, sorry this C-C double bond and open this ring up."
+    ],
+    [
+      59,
+      "Okay, so the key points that you need to take note is that you need to identify where the bond is cleaved."
+    ],
+    [64, "Okay, we have just identified that."],
+    [
+      66,
+      "We need to identify the parts of the molecule that stay the same which is pretty much the rest of the molecule."
+    ],
+    [
+      71,
+      "Okay, and we redraw the number of, redraw the molecule and count the number of carbons."
+    ],
+    [
+      77,
+      "Okay, so how do we do that? Let's start by counting the total number of carbons."
+    ],
+    [82, "We know that it's chopped off here so we know that."],
+    [84, "Let's call this 1, 2, 3, 4, 5 and 6."],
+    [
+      94,
+      "Okay, as long as we know the number of carbons we just have to open up this ring, redraw it so I know that it is going to end up as one straight line."
+    ],
+    [102, "So I'm going to see 1, 2, 3, 4, 5, 6."],
+    [106, "Alright, so I have 6 different carbons so let me count my carbons."],
+    [110, "1, 2, 3, 4, 5 and 6."],
+    [
+      114,
+      "Okay, so after I'm sure that I have 6 carbons, now I just need to fill in the functional groups that are present after cutting these bonds."
+    ],
+    [
+      123,
+      "Okay, and I know that oxidative cleavage will give me a COOH at the end, at the two ends of the molecule."
+    ],
+    [
+      133,
+      "Okay, so this is how you can draw the skeletal structure after ring opening."
+    ]
+  ],
+  "Acidity": [
+    [
+      0,
+      "Hi everyone, for today's lesson we are going to extend the idea of electronic effects to explain the acidity of certain acids or organic acids."
+    ],
+    [12, "So these are the steps behind it."],
+    [
+      16,
+      "The first step that you should take is to draw the structure of the conjugate base."
+    ],
+    [21, "So if you can see we have three different things here."],
+    [
+      21,
+      "We have an alcohol, we have a phenol and we have a carboxylic acid. different things here. We have an alcohol, we have a phenol and we have a carboxylic acid."
+    ],
+    [
+      35,
+      "So the first step is to draw the conjugate base and I have already drawn it here."
+    ],
+    [
+      45,
+      "So I removed the proton and now I have alkoxide, phenoxide and carboxylate."
+    ],
+    [
+      51,
+      "So the second step is for us to see whether the negative charge is dispersed or intensified."
+    ],
+    [56, "Basically we are looking at the stability of the conjugate base."],
+    [
+      61,
+      "So if we have electron withdrawing groups it will intensify the negative charge."
+    ],
+    [
+      66,
+      "Sorry, if we have electron donating groups you intensify the negative charge."
+    ],
+    [
+      71,
+      "If we have electron withdrawing groups we will disperse the negative charge."
+    ],
+    [77, "Alright so let's take a look at our different conjugate base."],
+    [
+      82,
+      "So in the first example you can see that this blue highlighted portion is an alcohol group so it's electron donating."
+    ],
+    [
+      89,
+      "In the second example we know that the negative charge can be delocalized via resonance."
+    ],
+    [
+      94,
+      "The third example we also know that it can be localized by a resonance but because the oxygen atom is more electronegative compared to the carbon atom, the electron density in a phenoxide lies nearer to the oxygen atom rather than the ring."
+    ],
+    [
+      122,
+      "On the other hand, because both of these oxygen atoms are equally have the same electronegativity value, the electron density is spread well between the both of them."
+    ],
+    [
+      129,
+      "So it's equally spread out so it's more dispersed. between the both of them. So it's equally spread out so it's more dispersed."
+    ],
+    [
+      136,
+      "So in that case we know that the conjugate base of the alcohol is the least stable."
+    ],
+    [
+      151,
+      "And then the conjugate base of the carboxylic acid is the most stable."
+    ],
+    [
+      157,
+      "That is why it will stay that way and will not move in the reverse direction."
+    ],
+    [
+      163,
+      "The position equilibrium will lie towards the right and so it's more acidic."
+    ],
+    [
+      169,
+      "So how do I represent this in an equilibrium equation? Alright so this is our expression for an acid."
+    ],
+    [174, "It dissociates to form H plus and A minus."],
+    [
+      181,
+      "So this is the conjugate base here.The more stable it is, the more the position equilibrium will lie towards the right and this gives you a higher concentration of H plus."
+    ],
+    [
+      189,
+      "And because you have a higher concentration of H plus, this becomes more acidic."
+    ],
+    [
+      197,
+      "And so this is how we can explain acidity using electron withdrawing groups and electron donating groups via inductive effect, resonance or delocalization."
+    ]
+  ],
+  "Multistep reactions": [
+    [
+      0,
+      "Hi everyone, in the last lesson we talked about the basics of distinguishing tests."
+    ],
+    [
+      5,
+      "So this lesson we are going to talk about something more advanced, we are going to talk about the multi-step reactions."
+    ],
+    [12, "So for example, some reactions require multiple steps."],
+    [18, "So this applies to functional groups with no direct test."],
+    [
+      21,
+      "So the examples can be that amides need to be hydrolyzed first, and esters can also be hydrolyzed first."
+    ],
+    [31, "So what we can see here is two examples of esters."],
+    [
+      34,
+      "If we apply what we have learned in the previous lesson, we look at differences in functional groups and we realize there is none, both of them are esters."
+    ],
+    [
+      42,
+      "So we are looking at the differences in its form and we realize that they are isomers."
+    ],
+    [
+      49,
+      "And what you can see here is that this ester can undergo hydrolysis as the first step to give you two different products."
+    ],
+    [
+      59,
+      "So the first ester gives you this product and this in acid hydrolysis, and the second one gives you this carboxylic acid and methanol as the product."
+    ],
+    [
+      77,
+      "And as you can see, this product here allows us to do an iodoform test for you to check if for you to distinguish it."
+    ],
+    [
+      91,
+      "So this is an example of how you can use multi-step reactions for you to test, for you to come up with a test to distinguish one molecule from the other."
+    ]
+  ],
+  "Electrophilic Substitution Part 1": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about how we can draw the electrophilic substitution mechanism."
+    ],
+    [6, "There are altogether three steps behind drawing this mechanism."],
+    [10, "So let's get down to this question."],
+    [
+      12,
+      "Alright, so for step one, our job is to form the electrophile first."
+    ],
+    [
+      17,
+      "So we have to take a look at this question and see what our electrophile is."
+    ],
+    [21, "And so if you notice, we have a Lewis acid catalyst here, FeBr3."],
+    [27, "And we also have Br2."],
+    [29, "It's important to take note of the solvent."],
+    [
+      29,
+      "In this case it is just CCl4 and it doesn't really do anything for our question. It's important to take note of the solvent. In this case it is just CCl4 and it doesn't really do anything for our question."
+    ],
+    [36, "But for FeBr3, it is our Lewis acid catalyst and we have a Br2."],
+    [
+      42,
+      "Therefore, if we react FeBr3 with Br2, we will be able to form FeBr4- plus Br+."
+    ],
+    [
+      57,
+      "Alright, so I want you to contrast this reaction with your electrophilic addition mechanism."
+    ],
+    [
+      63,
+      "In the electrophilic addition mechanism, there is no need for us to use a Lewis acid catalyst to form the electrophile."
+    ],
+    [
+      73,
+      "But in this case, because arenes are more stable than alkenes, that's why in order for the reaction to take place, we need to use a Lewis acid catalyst."
+    ],
+    [85, "Alright, so this is step 1 of the reaction."]
+  ],
+  "Side chain Oxidation": [
+    [
+      0,
+      "Hi, in this lesson we are going to talk about side chain oxidation using hot acidified KMnO4 as the reagent."
+    ],
+    [
+      16,
+      "It is very important for you to take note that every time you see a benzene ring, you must remember that if I use hot acidified KMnO4, there could be side chain oxidation."
+    ],
+    [
+      29,
+      "So this is something that you need to take note of.So as long as the carbon atom connected to the benzene ring is connected to at least one hydrogen atom or oxygen atom, all other carbon atoms will be cleaved off."
+    ],
+    [42, "What you will get is a COOH group attached to the benzene ring."],
+    [
+      47,
+      "So how does this work? Let's take a look at this molecule.So over here we have this benzene ring."
+    ],
+    [
+      47,
+      "It is connected to another ring here and it is an alkyl group. here we have this benzene ring. It is connected to another ring here and it is an alkyl group."
+    ],
+    [
+      54,
+      "So what is going to happen is that when I use hot acidified KMnO4 with this molecule, what will happen is that I will identify the first carbon and I will cleave off everything else."
+    ],
+    [
+      74,
+      "So everything else disappears, you get cleaved off and these two carbons will become my COOH."
+    ],
+    [
+      88,
+      "So my product will look like this.So what happened to the rest of this group that was removed? Most of the time it is going to end up as CO2NH2O."
+    ],
+    [
+      95,
+      "But when the number of carbon atoms increases significantly in the side chain, it creates many different products and we cannot really pinpoint what product we will get."
+    ],
+    [
+      107,
+      "But what is important is that every time we do side chain oxidation, we are interested in the final molecule here."
+    ]
+  ],
+  "Distinguishing tests": [
+    [
+      0,
+      "Hi everyone, in this lesson we are going to talk about how we can perform distinguishing tests."
+    ],
+    [
+      8,
+      "So there are a couple of key points for us to take the first one is for us to identify the differences so if you might either find functional group differences or you can find differences in the form so for example if it's an isomer and stuff like that."
+    ],
+    [
+      24,
+      "So for functional groups it is usually very clear-cut because each functional group has a way for you to test it and distinguish it from every other functional group but for isomers usually there is a special reaction."
+    ],
+    [
+      41,
+      "Okay so you have to it usually for such cases there are only one or two examples that can give you that reaction okay then the second step for you to do is to choose a test that gives you an observable difference so we are not only looking for observable changes we are looking for a difference in their observations so we can have changes in color we can have formation of PPT we can have evolution of gases change in state or speed of the there is a different speed of reaction for example different speed of rate of hydrolysis reactions for example between let's say a isochloride and this alkyl halide."
+    ],
+    [
+      90,
+      "Alright so lastly after we complete this whole question always remember to check for side reactions."
+    ],
+    [
+      95,
+      "Alright so let's take a look at two of these examples so in the example on the left you will notice that we have a difference in the functional group so we have a phenol and an alcohol so you know that the best way to test for this is to add Br2 aqueous which will only react with my phenol to give me a PPT."
+    ],
+    [
+      118,
+      "Alright so that white PPT is actually the observable difference and the difference between them is the functional groups."
+    ]
+  ],
+  "Identifying cis trans isomerism": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about how we can identify cis-trans isomerism."
+    ],
+    [
+      7,
+      "So I'm sure most of you have already known that cis-trans isomerism can exist in alkenes and in the A-level syllables we are also interested in how it can also occur in cyclic compounds such as cycloalkenes."
+    ],
+    [
+      25,
+      "So the main idea behind cis-trans isomerism is the inability for the bonds to rotate about the C-C double bond."
+    ],
+    [
+      33,
+      "So in the first example, right over here, we have this molecule that looks like this is the trans and this is the cis."
+    ],
+    [43, "So this is very basic, I'm not going to touch too much on that."],
+    [46, "What I'm interested in is the cycloalkenes."],
+    [
+      50,
+      "So what we can do is to treat the cyclic compound as a gigantic double bond."
+    ],
+    [
+      55,
+      "So this is one side of the bond, this is the other side, and then the other one, this is one side, this is the other side."
+    ],
+    [62, "So this ring locks these two groups into position."],
+    [
+      67,
+      "So how do I draw the different cis-trans isomers? These are the two different isomers that I can draw."
+    ],
+    [75, "Both up, this is cis."],
+    [78, "We can also have both down."],
+    [81, "This is also cis."],
+    [85, "And we can have one up, one down."],
+    [89, "So this is one up, one down, this is trans."],
+    [93, "It's the same the other way."],
+    [
+      95,
+      "And we realize that if I flip this molecule upside down, I will get the molecule at the top."
+    ],
+    [103, "So basically these two molecules here are the same thing."],
+    [107, "So let's take a look at the other one, the other example."],
+    [110, "We have this ring here."],
+    [111, "Likewise we can have both in the same direction."],
+    [117, "And we can have both in the opposite direction."],
+    [122, "So this is our cis and this is our trans."],
+    [
+      126,
+      "So just take note that cis-trans isomerism can exist in both a cc double bond, in an alkene, or a cyclic compound like a cycloalkene."
+    ],
+    [
+      143,
+      "And one last point for you to take note, if I combine these two things together into a ring, you'll notice that this ring is in the cis conformation about this double bond."
+    ],
+    [160, "And the trans product cannot be formed because of ring strain."],
+    [166, "So if I were to form the trans product, it will look like this."],
+    [
+      170,
+      "So I have one carbon, two carbon, three carbon, four carbon bonded to it."
+    ],
+    [174, "So I have one, two, three, four."],
+    [177, "This is the trans product."],
+    [179, "And we notice that there will be ring strain."],
+    [
+      183,
+      "So because of this ring strain, the trans product does not occur, only the cis product would be present."
+    ],
+    [193, "Alright, so this is how we can identify cis-trans isomerism."]
+  ],
+  "Free Radical Substitution Part 1": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about the first two steps of the free radical substitution mechanism."
+    ],
+    [
+      10,
+      "Alright so before we tackle this mechanism we need to understand the goal behind each of these two steps."
+    ],
+    [15, "So the first step's goal is to form our radical."],
+    [
+      21,
+      "So what exactly is a radical? So for example Cl, if Cl2 breaks apart it can form two Cl radicals."
+    ],
+    [
+      29,
+      "So this means that chlorine now has seven valence electrons in its outer shell."
+    ],
+    [
+      35,
+      "Alright so what we need to do is we need to draw our half arrows to show that it is a homolytic fission which means both of them get one electron each."
+    ],
+    [
+      53,
+      "Okay so let's take a look at this question.So in the first part we have Cl2, we have UV so in the initiation step Cl2 will break apart."
+    ],
+    [
+      60,
+      "Okay think of the half arrows under UV to give you the Cl radical. apart. Okay think of the half arrows under UV to give you the Cl radical."
+    ],
+    [66, "Okay so how many radicals do we have? We have two radicals."],
+    [
+      73,
+      "Okay so this is the first step of our mechanism which is initiation."
+    ],
+    [77, "Alright so let's move on to the second step, propagation."],
+    [
+      82,
+      "So the goal behind it is that we need to be able to form our product."
+    ],
+    [
+      88,
+      "Okay and how it works is that we need to take a radical plus a molecule to give us a molecule and a radical."
+    ],
+    [93, "So this means propagation, the reaction continues."],
+    [
+      97,
+      "So this is how the reaction can continue and what we need to point out later is which is the more stable radical and we also need to take a look at the half arrows."
+    ],
+    [
+      110,
+      "So usually we don't draw the half arrows but just remember that there are a lot of homolytic fissions and fusions over here so half arrows are moved all the time."
+    ],
+    [
+      124,
+      "Alright so let's take a look at the propagation step here.So right now I have this molecule here."
+    ],
+    [130, "Okay I react with the only radical I have right this Cl."],
+    [
+      136,
+      "So the radical has to take away one of the hydrogen atoms so in this case I can have a hydrogen atom here I can also have a hydrogen atom here or here."
+    ],
+    [
+      145,
+      "Okay but in the previous lesson we know that these two points are equivalent."
+    ],
+    [
+      150,
+      "Alright these two hydrogen atoms or rather these six hydrogen atoms are all equivalent."
+    ],
+    [
+      155,
+      "So what this Cl can do is that it can take away either this hydrogen or this hydrogen."
+    ],
+    [
+      160,
+      "Alright you will take away this to form either a radical here or radical here plus HCl."
+    ],
+    [
+      172,
+      "Alright so how do I draw this out in in my full display formula? Okay how do I get this radical? So assuming I'm taking away this this hydrogen here."
+    ],
+    [
+      193,
+      "Alright so this radical okay will take away this hydrogen and form a radical at this point so what I will get at the end is this."
+    ],
+    [
+      210,
+      "Alright because of a lack of one hydrogen and of course I have my HCl molecule."
+    ],
+    [
+      216,
+      "So can you see that we have now reacted a molecule with a radical to form radical and a molecule."
+    ],
+    [
+      222,
+      "Alright so this is our first propagation step but of course this does not give us our product it does not achieve our goal so we have to continue."
+    ],
+    [
+      232,
+      "So let us pick this radical here.Alright I'll explain why I will pick this radical later on."
+    ],
+    [
+      238,
+      "Alright so with this radical I will now react with another molecule."
+    ],
+    [
+      244,
+      "Alright this time around with my Cl2 that is present.Okay because this is the only way that I can form my product."
+    ],
+    [250, "I will get Cl at texture plus a Cl radical."],
+    [
+      259,
+      "Okay so once again radical plus molecule gives you molecule plus radical."
+    ],
+    [
+      264,
+      "Alright and have we obtained our product? Yes we have.So we have achieved our goal here and notice Cl was formed here."
+    ],
+    [270, "Cl was used at the start."],
+    [
+      270,
+      "So in the propagation step the Cl radical is a catalyst. the start. So in the propagation step the Cl radical is a catalyst."
+    ],
+    [
+      276,
+      "Okay so this is one of the important points that you need to take note."
+    ],
+    [
+      280,
+      "Alright so let me move back to why I chose this radical here to continue."
+    ],
+    [286, "Alright so this radical here is our most stable radical."],
+    [293, "So how do we explain its stability? Okay so let's take a look."],
+    [299, "Alright I have this radical and this radical here."],
+    [
+      306,
+      "Alright so the most stable radical will be formed easier compared to the other one."
+    ],
+    [
+      310,
+      "Alright so if you take a look at these two radicals here we know that radicals are electron poor."
+    ],
+    [323, "Alright so it has a lack of electron that's why it is so reactive."],
+    [
+      329,
+      "It wants to take in another electron from a molecule maybe by taking a chlorine atom together with its electrons or from a hydrogen atom."
+    ],
+    [
+      339,
+      "Alright so they are electron poor therefore what we want to do is we want to stabilize it."
+    ],
+    [
+      343,
+      "Okay we want to make it less electron poor and as we know the alkyl groups connected alright they are electron donating."
+    ],
+    [349, "Alright so these are electron donating groups."],
+    [
+      353,
+      "Alright so look at the direction of arrow they are donating electrons to this electron poor region and what we can see is that this secondary radical is able to has two electron donating groups."
+    ],
+    [
+      371,
+      "While this only has a primary radical only has one electron donating group."
+    ],
+    [
+      378,
+      "So this means that the secondary radical the one on the left is more stable because it is less electron poor."
+    ],
+    [384, "The radical is less electron poor."],
+    [
+      390,
+      "So this is how we can answer the first two steps of this mechanism initiation and propagation."
+    ]
+  ],
+  "Stability of Intermediates": [
+    [
+      0,
+      "Hi everyone, in the last two lessons we talked about the inductive effect and the resonance effects."
+    ],
+    [
+      6,
+      "Both of these fall under the wider, the bigger concept of electronic effects. effects. Both of these fall under the wider, the bigger concept of electronic effects."
+    ],
+    [
+      13,
+      "Alright, so in this lesson we are going to combine these two concepts together to explain the stability of intermediates."
+    ],
+    [
+      27,
+      "Okay, so for our intermediate in this case, we are using our carbocation ion."
+    ],
+    [
+      35,
+      "Alright, so these three things are our carbocation ions.Okay, so we want to, our job is to determine if the intermediate is electron rich or electron poor."
+    ],
+    [
+      40,
+      "Alright, so we know that carbocation ions and radicals are electron poor because this carbon atom, alright, to achieve octet structure, okay, it needs eight valence electrons."
+    ],
+    [53, "However, it only has six electrons."],
+    [
+      64,
+      "Likewise for a radical, now it has seven electrons even though it needs eight, so it is electron poor."
+    ],
+    [
+      71,
+      "Alright, so what we want to see is that the more, if it's electron poor, we want to make sure that it becomes less poor to stabilize it."
+    ],
+    [
+      78,
+      "And if something takes away electrons and makes it more electron poor, it destabilizes it."
+    ],
+    [85, "Okay, so let's take a look at this example here."],
+    [
+      93,
+      "Alright, so we will use this first molecule as a benchmark, alright, because it only has protons or hydrogen atoms connected to it."
+    ],
+    [
+      98,
+      "So in the second example, we know that there are three CH3 groups attached to it, so it is electron donating."
+    ],
+    [105, "This is what we have learned in the inductive effect."],
+    [
+      112,
+      "We know that alkyl groups, or this alkyl groups, are electron donating."
+    ],
+    [
+      125,
+      "Alright, they are monthly electron donating, so since it gives electrons to this carbocation ion, it helps to disperse that positive charge because electrons are negatively charged."
+    ],
+    [
+      136,
+      "Okay, so it puts electrons in.Alright, so if you take a look at the last example, okay, we know that it has two electron donating alkyl groups, and at the same time, we also learned in the previous lesson on delocalization that the electrons in this ring, alright, actually flow out into this carbocation ion."
+    ],
+    [
+      161,
+      "Alright, so this ring's electrons will flow out here.So this actually allows a stronger stabilization of this positive charge."
+    ],
+    [
+      169,
+      "Alright, so that is why if we were to compare this to the benzene ring, it will have a greater effect on our carbocation ion."
+    ],
+    [
+      183,
+      "Alright, so just by looking at this, the most stable intermediate is the one on the right."
+    ],
+    [
+      189,
+      "The second most stable is this, and this is the least stable intermediate."
+    ]
+  ],
+  "Electrophilic Substitution Part 2": [
+    [
+      0,
+      "Hi everyone, in the previous video we talked about how we can generate the electrophile."
+    ],
+    [
+      10,
+      "In this case our electrophile is Br+.Alright and we have completed step 1."
+    ],
+    [
+      15,
+      "Alright so there are also many other ways that you can generate other electrophiles."
+    ],
+    [
+      20,
+      "There are ways you can actually use the acid-base reaction to generate your NO2+, which is another electrophile."
+    ],
+    [
+      26,
+      "Alright so in this step, in step 2, our job is to finally form the carbocation."
+    ],
+    [32, "So first and foremost we have to look at our reactant here."],
+    [
+      36,
+      "Alright so in the following video about directing groups, you will know that it will be directed to either this position or this position here."
+    ],
+    [
+      49,
+      "Alright so we just need to choose one of them for our, for this explanation."
+    ],
+    [
+      55,
+      "If you are unsure about how you can, how this directing group, directing effect works, you can refer to the other video on directing effects."
+    ],
+    [
+      65,
+      "Alright so let's get down to drawing this mechanism.So this is my benzene ring."
+    ],
+    [
+      73,
+      "Alright so just take note that in this circle here it is just alternating pi bonds."
+    ],
+    [
+      81,
+      "Alright so in the structure, this is the coccule structure of a benzene ring."
+    ],
+    [
+      88,
+      "So what you are actually using is this double bond as your electron source."
+    ],
+    [
+      92,
+      "Alright so what we are going to do is we are going to put our electrophile here."
+    ],
+    [
+      92,
+      "So this is our electrophile and this is our nucleophile. to put our electrophile here. So this is our electrophile and this is our nucleophile."
+    ],
+    [97, "So we'll draw an arrow out from here to Br+."],
+    [
+      105,
+      "Alright and what we will have is, so we draw this whole thing first."
+    ],
+    [
+      113,
+      "Alright NO2.Okay so now we are going to add our Br to this position."
+    ],
+    [
+      122,
+      "Alright and this becomes a carbocation.So can you see that? So now the carbocation is represented by this positive charge in the center and if you see this curve here, alright this smiley face, it has to point towards these two groups because all these groups here, all these carbons are sp2 hybridized whereas this blue carbon here is sp3 hybridized."
+    ],
+    [
+      150,
+      "Alright so at this point in time the aromaticity is destroyed so that is why it wants to regenerate its aromaticity."
+    ],
+    [157, "It needs to remove one of these atoms attached to it."]
+  ],
+  "Electrophilic addition part 1": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about how we can draw the electrophilic addition mechanisms and the steps behind it."
+    ],
+    [
+      8,
+      "Alright, so there are 4 steps that you can take to draw electrophilic addition mechanism and in this video series I'm going to go through the steps one by one."
+    ],
+    [
+      18,
+      "Alright, so the first step for you to do is for you to identify the electrophile."
+    ],
+    [
+      24,
+      "Alright, so in this case our alkene here is our nucleophile because it is electron rich whereas in our Br2, this time around this is our electrophile with our delta plus and delta minus."
+    ],
+    [43, "Alright, so this is something similar to ID-ID interaction."],
+    [
+      52,
+      "What do I mean by that when we have a nucleophile which is electron rich? As it comes near to a neutral Br atom, what happens is that the electrons in this electron rich region will repel the electrons in Br such that it goes towards the right hand side."
+    ],
+    [72, "So I get a delta minus here and I get a delta plus here."],
+    [77, "Alright, so this allows me to form my electrophile."],
+    [
+      83,
+      "You also have other examples where you have nucleophiles and things like IBr where we know that this is a polar molecule and I has the delta plus, Br has the delta minus because of electronegativity."
+    ],
+    [104, "Because Br is more electronegative, you will get a delta minus."],
+    [
+      107,
+      "Alright, so in these two cases, like how we always move electrons from the source to the sink, we will start by drawing the arrow from the source which is our double bond to the sink which is our delta plus atom."
+    ],
+    [
+      121,
+      "And likewise, we have to break the bond and source to sink again, the bond to the atom."
+    ],
+    [126, "Alright, in the second case it's also the same thing."],
+    [
+      129,
+      "I move it here from the electron rich to the electron poor, from the electron rich to the electron poor."
+    ]
+  ],
+  "Calculating oxidation state of atoms in organic compounds": [
+    [
+      0,
+      "Hi everyone, in this video we are going to talk about how we can calculate the oxidation number of organic compounds, specific atoms in organic compounds."
+    ],
+    [
+      10,
+      "In this case you are calculating the oxidation number of the carbon circle in orange."
+    ],
+    [
+      23,
+      "Okay so how we go about tackling such questions is by looking at the two atoms at a time and comparing their electronegativity values."
+    ],
+    [
+      28,
+      "So the one that's more electronegative will get a minus 1 whereas the more electropositive or less electronegative atom will get a positive value, positive 1."
+    ],
+    [
+      39,
+      "So let's look at this carbon here. positive value, positive 1. So let's look at this carbon here."
+    ],
+    [
+      45,
+      "And we will realize that this carbon is bonded to another carbon here."
+    ],
+    [
+      60,
+      "So if we compare these two I will actually give a value of 0 here and a 0 over here."
+    ],
+    [
+      60,
+      "Alright so based on their comparison I should get a 0 over here. over here. Alright so based on their comparison I should get a 0 over here."
+    ],
+    [
+      66,
+      "So let me erase this other 0 because we are not looking at the 0 right now."
+    ],
+    [70, "Now let's compare this carbon here to this oxygen."],
+    [
+      76,
+      "If we compare the both of them, the oxygen is more electronegative so you should get a negative and this should get a positive but because it has a double bond here, it means that it has actually lost 2 electrons to oxygen."
+    ],
+    [
+      92,
+      "So oxygen will get a minus 2 charge while this will get plus 2. oxygen. So oxygen will get a minus 2 charge while this will get plus 2."
+    ],
+    [98, "Because there are two bonds here."],
+    [
+      103,
+      "Then if we compare this last carbon with this last oxygen here, this oxygen is more electronegative so it gets a minus 1."
+    ],
+    [108, "They are only sharing a pair of electrons so this will get plus 1."],
+    [113, "So all together the carbon atom will be plus 3."],
+    [
+      120,
+      "So if we were to consider this other oxygen atom, it already has a minus 1 so if you compare it to the hydrogen here, hydrogen is less electronegative so it gets a plus 1, this gets minus 1 so you get a total of minus 2."
+    ],
+    [136, "Okay so let's take a look at the second example."],
+    [
+      140,
+      "In the second example we have to include the other two hydrogen atoms that have been omitted."
+    ],
+    [
+      145,
+      "So once again this carbon versus this carbon, both are the same so I will give 0 to both of them."
+    ],
+    [
+      152,
+      "This carbon versus this hydrogen, hydrogen is obviously less electronegative so it gets plus 1, this carbon gets another plus 1."
+    ],
+    [
+      164,
+      "If I were to compare against this hydrogen, you will get minus 1, minus 1, plus 1."
+    ],
+    [
+      171,
+      "Now I compare this carbon with this oxygen here, this is more electronegative so this gets the minus 1, this gets plus 1."
+    ],
+    [
+      183,
+      "So all together you will get minus 1.Okay let's move on to the third example."
+    ],
+    [
+      188,
+      "So once again if we look at the bond on the left, carbon versus carbon, this will get a 0."
+    ],
+    [
+      193,
+      "Now the second one, this carbon versus this carbon, once again is another 0."
+    ],
+    [199, "Then compared to this oxygen, two bonds here so it is plus 2."],
+    [
+      206,
+      "Alright so if I sum them up, the oxidation state of that carbon is plus 2."
+    ],
+    [
+      206,
+      "In our last example, compared to this carbon, this gets a 0. carbon is plus 2. In our last example, compared to this carbon, this gets a 0."
+    ],
+    [
+      214,
+      "Compared to this hydrogen, since carbon is more electronegative, it gets minus 1."
+    ],
+    [
+      219,
+      "Compared to this oxygen here, we get a minus 2 because of the double bond, sorry plus 2."
+    ],
+    [
+      236,
+      "So all together we end up with plus 1.Okay so if you realized, if we oxidize an alcohol, it will go from minus 1, in this case it's a primary alcohol so we can oxidize it to an aldehyde which is plus 1."
+    ],
+    [
+      248,
+      "Okay and if we oxidize it even further, it will become a carboxylic acid."
+    ],
+    [253, "In this case it will become plus 3."],
+    [
+      259,
+      "So as you can see, this method allows us to calculate the oxidation state of this carbon that is circled in orange."
+    ],
+    [
+      265,
+      "And this shows us how we can oxidize it and increase the oxidation number along the way."
+    ],
+    [
+      275,
+      "Alright so this is how you can go about calculating the oxidation number of organic compounds."
+    ],
+    [
+      282,
+      "So if we were to extend it to inorganic compounds such as hydrogen peroxide, often we give hydrogen peroxide the value of minus 1."
+    ],
+    [
+      288,
+      "So let's look at this together and see how we can get the value of minus 1."
+    ],
+    [
+      294,
+      "So if we were to look at this oxygen atom itself, if we consider this oxygen with this hydrogen, this gets a plus 1, this gets a minus 1."
+    ],
+    [
+      303,
+      "If you compare these two oxygens, you'll notice that they have the same electronegativity values so you'll get a zero here."
+    ],
+    [
+      312,
+      "So if you add these two values together you will get minus 1.So that is how we can apply the same method to get minus 1 for the oxygen atom in hydrogen peroxide."
+    ]
+  ],
+  "SN2 mechanism": [
+    [
+      0,
+      "Hi in the last lesson we talked about how the SN1 mechanism works so now in this lesson we are going to complete the story and talk about SN2 reaction alright so SN2 like we mentioned in the first video it is a second order reaction alright so what it means is that both the RX and the nucleophile in this case NH3 they they enter and leave in a same step alright we call that a concerted reaction alright so in the same step one is going to enter and one is going to exit alright and what is going to happen is that there will be an inversion of configuration alright so I'm going to explain how that works with this diagram here okay so this molecule is going to undergo my SN2 reaction alright so I have to take note that this NH3 is my nucleophile this second group here is my electrophile so it must have a delta positive carbon alright so how do I get this delta positive is because my chlorine here is delta minus it's more electronegative so you must have you must always have this delta plus for it to be an electrophile and in our SN1 mechanism we have this positive carbocation that is our electrophile okay so what I'm going to do here is I'm going to push the arrows enter together and break at the same time alright so this is the second order reaction okay both of them occur at the same time so what is going to happen is imagine this NH3 is the one that pushes this three group so this hydrogen will now be pushed towards here this hydrogen will now be pushed towards backwards and this R will be pushed towards the back okay so just imagine when you hold an umbrella and the wind is very strong it will flip your umbrella over alright so just remember that image it looks just like SN2 okay so pretty much like let's say I have an umbrella here alright when it flips over okay then it looks something like that yeah when the wind starts blowing okay so this is our SN2 mechanism okay so what is going to happen is that the final product it's always a good way to represent it this way okay looks like this all right so all I did was just to shift those hydrogen atoms and R group towards the back so I just flip them over okay and what you need to take note of is the charge on the nitrogen atom because it was neutral it gave electrons and then it kicked out the Cl- so you also have Cl- at the other end so if we take a look at the charges it is balanced okay because the initial reactants they are not charged they are neutral so the final product should have a conservation of charges okay so in the last step what is going to happen okay is well this Cl- is going to take away one of these protons right so that we can liberate the product okay so we get this product here again of course this reactant is able to continue with this reaction alright as long as it sees an RX okay another RX and you can continue all the way till you get your quaternary ammonium alkyl ammonium salt right which is your NR4+."
+    ]
+  ],
+  "Inductive Effect": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about the inductive effect and how you can use the inductive effect to answer certain types of questions."
+    ],
+    [
+      10,
+      "So basically the inductive effect is usually used to answer questions with charges."
+    ],
+    [
+      22,
+      "We want to find out if a certain charge will be intensified or whether it will be dispersed."
+    ],
+    [
+      27,
+      "So like this atom here, this oxygen atom here has a negative charge so we want to see whether there is a group attached to it that can withdraw away its electrons or donate electrons to it so that we can intensify or disperse that charge."
+    ],
+    [
+      43,
+      "Likewise for the example on the right we can see that we have a positive carbon, we call that a carbocation."
+    ],
+    [
+      49,
+      "So we want to see whether the groups attached to it will intensify or disperse its charge."
+    ],
+    [
+      59,
+      "Okay so let's get down to it.So today we will talk about, we will first start with the inductive effect and the inductive effect is an electronic effect that applies to sigma bonds."
+    ],
+    [
+      71,
+      "So just take note that it applies to sigma bonds so even if it has a double bond, triple bond, it is through the sigma bond."
+    ],
+    [
+      83,
+      "And it has something to do with the difference in electronegativity values."
+    ],
+    [
+      89,
+      "So the more electronegative atom will pull electron density towards itself."
+    ],
+    [
+      94,
+      "So if I can find an analogy for it I would say that it looks more like a tug of war."
+    ],
+    [
+      101,
+      "Okay so all the atoms essentially pulling on electron density to see where the electron density will lie closer to."
+    ],
+    [
+      105,
+      "So the more electronegative you are, the better you are at pulling the electrons away."
+    ],
+    [
+      116,
+      "Alright so how do we apply this in questions? We have to fix our attention to the atom in question."
+    ],
+    [
+      120,
+      "So if you take a look at these two examples here, our atom that we are looking at is oxygen atom and the carbon atom here with the charge."
+    ],
+    [131, "Then we look at a difference in electronegativity."],
+    [
+      136,
+      "So we know that in this case if I compare both of these structures, if I look at the difference, the only difference is between this H and this Cl here."
+    ],
+    [
+      145,
+      "So what it means is that since Cl is more electronegative than hydrogen, what it will do is that it will pull the electron density towards itself compared to the hydrogen atom."
+    ],
+    [155, "So take note I'm comparing between these two things."],
+    [
+      158,
+      "And chlorine is more electronegative, it will pull the electron density away from this oxygen, the negative charge on this oxygen more."
+    ],
+    [169, "So as a result this negative charge is more dispersed."],
+    [
+      175,
+      "Then another thing for you to take note is that alkyl groups are considered as electron donating groups via the inductive effect."
+    ],
+    [
+      180,
+      "So if you take a look at the second example, we know that it is electron donating."
+    ],
+    [
+      191,
+      "So over here we have three R groups attached to it.So we have three electron donating groups."
+    ],
+    [
+      195,
+      "They are monthly electron donating.So it helps to disperse the positive charge to a greater extent."
+    ],
+    [
+      200,
+      "So essentially at the end of the day we are just looking at the difference in electronegativity and if we look at alkyl groups we know that for these R groups they are electron donating."
+    ],
+    [
+      215,
+      "One last example.Let's say I have this carbon, this carbocation here."
+    ],
+    [
+      224,
+      "If it is in a ring, each time you see another CC bond connected to it, it is counted as one R group."
+    ],
+    [228, "So altogether this carbocation has two R groups attached to it."],
+    [234, "So this is the inductive effect."]
+  ],
+  "Free Radical Substitution Part 2": [
+    [
+      0,
+      "Hi everyone, in the previous video we talked about the first two steps of the free radical substitution mechanism, the initiation step and the propagation step so in this video we are going to talk about the termination step."
+    ],
+    [14, "Alright so the termination step is very very simple."],
+    [
+      19,
+      "All you need to know is that you will take all the radicals from your mechanism in the previous steps and combine them together."
+    ],
+    [
+      28,
+      "So all you need to do is to take the radicals and combine them together."
+    ],
+    [33, "But there are some tricks that I want to teach you here."],
+    [
+      36,
+      "So sometimes you'll see questions that will ask you about the MR or the relative molecular mass of different products."
+    ],
+    [
+      42,
+      "So there are a few things that you can see. different products. So there are a few things that you can see."
+    ],
+    [
+      47,
+      "Sometimes you will see MR of HX, depending on the halogen that you use you will see this MR."
+    ],
+    [
+      57,
+      "So this could be one of the possible products and sometimes you will see MR that looks like it has approximately doubled and it's double minus 2."
+    ],
+    [
+      63,
+      "This suggests that it is the R-R bond. it's double minus 2. This suggests that it is the R-R bond."
+    ],
+    [
+      70,
+      "So what do I mean by this R-R bond? It's where two alkyl radicals combine together."
+    ],
+    [
+      79,
+      "So that's what we are going to see.So let's continue.Let's look at this question here and choose the most stable product to continue with our discussion."
+    ],
+    [
+      88,
+      "So this was our most stable product and these are our radicals that we have formed right now."
+    ],
+    [
+      88,
+      "So we have chlorine radical. our radicals that we have formed right now. So we have chlorine radical."
+    ],
+    [95, "We also have this radical."],
+    [
+      101,
+      "So there are a couple of ways that we can combine them to form our radicals."
+    ],
+    [
+      101,
+      "In fact there are three ways that we can do so. combine them to form our radicals. In fact there are three ways that we can do so."
+    ],
+    [
+      105,
+      "The first way is where we take a chlorine radical plus chlorine radical to give you Cl2."
+    ],
+    [
+      120,
+      "So these two can join.Another way is to take my chlorine radical, react with this thing and it will give me my product again."
+    ],
+    [
+      126,
+      "And the last way is to take these two and what I will do is it is just like joining the dots that we have done when we were kids."
+    ],
+    [138, "You just point the dots to one another and you connect them."],
+    [144, "I'm going to show you this process again."],
+    [
+      144,
+      "You have a dot here, you have a dot here. I'm going to show you this process again. You have a dot here, you have a dot here."
+    ],
+    [148, "You want to join them together so erase them away."],
+    [
+      148,
+      "Connect these two points. You want to join them together so erase them away. Connect these two points."
+    ],
+    [
+      152,
+      "So that's how you can draw this, point the dots to each other then you connect them together."
+    ],
+    [161, "So this is the termination step of the mechanism."],
+    [
+      167,
+      "So how can we tie in everything into a question? Usually there will be questions that will test you on the ratio of products that will be formed."
+    ],
+    [
+      181,
+      "So how do we calculate the ratio? We have to use two different things."
+    ],
+    [
+      187,
+      "We have to look at the propagation step and we also have to look at the number of equivalent hydrogens."
+    ],
+    [203, "So there are two factors.Number of equivalent hydrogen."],
+    [
+      211,
+      "Then the other one is in our propagation step which is our stable or more stable radical."
+    ],
+    [
+      219,
+      "I mentioned in the previous video that the more stable radical will have a higher chance of being formed."
+    ],
+    [226, "So the rate of reaction of that will be higher."],
+    [231, "So let's compare these two radicals here."],
+    [
+      238,
+      "So in the radical on the left, what we can see is that this molecule, I'm going to label two different groups of hydrogen atoms."
+    ],
+    [
+      250,
+      "And you should be able to tell that if I label the purple hydrogen as A and the red hydrogen as B, the ratio of A is to B will be 6 is to 2."
+    ],
+    [
+      270,
+      "So this is what we have based on the number of equivalent hydrogen atoms."
+    ],
+    [
+      274,
+      "So what about stable radical? Let's say the data shows you that the rate of formation of this radical is 20 times of the rate for the second one."
+    ],
+    [
+      292,
+      "So how do I know the proportion of products? So the rate of formation is this."
+    ],
+    [
+      299,
+      "So you can form both of these radicals but the secondary radical has a higher chance of forming."
+    ],
+    [
+      310,
+      "It has a higher faster rate of reaction.So what we can do, this is our B and this is our A."
+    ],
+    [
+      319,
+      "So at the end of the day, to find the proportion of product, we just look at A is to B."
+    ],
+    [
+      329,
+      "Since they are both of these events are independent, I can just use 6 is to 2."
+    ],
+    [336, "Then I multiply by 1 is to 20."],
+    [346, "This is the rate.So I'm using step 1 here, I'm using step 2 here."],
+    [
+      352,
+      "And the final proportion is 6 is to 40 which is also equal to 3 is to 20."
+    ],
+    [
+      359,
+      "So this is how we can use the whole mechanism to answer questions about the proportion of products formed."
+    ],
+    [
+      364,
+      "So with this, I have covered the whole of the free radical substitution mechanism."
+    ],
+    [371, "Thank you. mechanism. Thank you."]
+  ],
+  "Matching nitriles": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about how we can answer step-up reaction questions by matching the nitrile groups."
+    ],
+    [
+      10,
+      "Often in synthesis questions, we will be required to perform step-up reactions and the way for us to do that is either to use a nucleophilic addition or nucleophilic substitution reactions to form our nitrile which is known as our CN group."
+    ],
+    [
+      28,
+      "So one of the key skills that you must be able to do is to match the different forms of nitrile to the product."
+    ],
+    [
+      34,
+      "So for example, over here I have this alkene and I want to get it all the way to these two products and I know that if I count the number of carbons, I have one extra carbon so it is a step-up reaction."
+    ],
+    [
+      48,
+      "So I know that I need to use CN but I have no idea whether I need to use a nucleophilic substitution or nucleophilic addition mechanism."
+    ],
+    [
+      57,
+      "So what I need to do is to identify what my CN group has turned into because first and foremost I need to know where my CN group is added to and I know that nitriles can be converted to amines and it also can be converted to carboxylic acids."
+    ],
+    [
+      76,
+      "So if I take a look at what I have over here, I see a COOH group in both of them so I am very sure that it is my CN, it used to be my CN group here."
+    ],
+    [
+      89,
+      "And what you can do is that by looking at the other groups attached to it, if you look at this first position, highlighted in blue, if it is empty or it does not have any additional functional groups present, most likely what you had was a nucleophilic substitution."
+    ],
+    [
+      109,
+      "Whereas in the other case, you see this hydroxyl group here, it is most likely nucleophilic addition."
+    ],
+    [
+      116,
+      "So how do you match this pattern? The first thing that you can do is to turn it into this Cl and then turn it into this carboxylic acid."
+    ],
+    [
+      125,
+      "On the other hand, you can turn this into alcohol, turn it into an aldehyde, then add the CN and do hydrolysis."
+    ],
+    [140, "So this is how you can match nitriles for step-up reactions."]
+  ],
+  "Basicity": [
+    [
+      0,
+      "Hi everyone, in the previous video we talked about how we can use the electronic effects to explain acidity."
+    ],
+    [10, "In this lesson we are going to talk about basicity."],
+    [
+      16,
+      "So for basicity we want to look at the reactant and we want to identify the atom with the lone pair of electrons."
+    ],
+    [21, "So in this case we are looking at this nitrogen here."],
+    [26, "So I will fill in the lone pairs of electrons for you to see."],
+    [
+      34,
+      "Alright so basicity depends on the availability of the lone pair of electrons."
+    ],
+    [
+      39,
+      "So basically what we want to see is that the more electron density we have on this nitrogen atom, the more electron we pump in, the more available it is, then it will be more basic."
+    ],
+    [50, "So this same idea works for nucleophilicity."],
+    [
+      54,
+      "So the more available the lone pair of electrons, it is more nucleophilic."
+    ],
+    [60, "So what is exactly going on in basicity? We have a proton."],
+    [
+      68,
+      "We want it to do this process.The lone pair of electrons attacks this proton over here."
+    ],
+    [74, "This is how it acts as both a Lewis base and a Bronsted base."],
+    [
+      80,
+      "Okay so let's take a look at the electron donating and withdrawing groups to explain this."
+    ],
+    [
+      84,
+      "So in the previous video we know that this is an electron donating alkyl group."
+    ],
+    [
+      91,
+      "So it will give extra electron density to the nitrogen atom or the lone pair."
+    ],
+    [
+      96,
+      "Then the second example is that the lone pair of electrons is now delocalized into the ring."
+    ],
+    [
+      106,
+      "So it decreases the electron density.In the last example if we look at this group here, we know that oxygen, the electronegativity value of oxygen is larger than that of nitrogen."
+    ],
+    [
+      122,
+      "So based on this idea we know that the lone pair of electrons are pulled nearer to the oxygen than it is delocalized in this second case of phenolamine."
+    ],
+    [
+      136,
+      "Therefore in terms of ranking, this amide here is the least basic because it does not really have its lone pair of electrons left on it anymore."
+    ],
+    [
+      144,
+      "There's only a small amount of it left. electrons left on it anymore. There's only a small amount of it left."
+    ],
+    [150, "And then for our amine, it is the most basic."],
+    [161, "And that's why for our amides they are considered neutral."],
+    [
+      169,
+      "Okay so this is how we can use electronic effects to explain basicity."
+    ]
+  ],
+  "Identifying degree of substitution": [
+    [
+      0,
+      "Alright, so now we are going to talk about how we can identify the degree of substitution for a certain carbon attached to a certain functional group."
+    ],
+    [
+      10,
+      "Alright, so you might have remembered this from your schoolwork that degree of substitution talks about primary, secondary, tertiary and quaternary."
+    ],
+    [21, "So in this example, we have an alcohol."],
+    [
+      24,
+      "So this is our functional group and we want to know what is the degree of substitution here."
+    ],
+    [
+      29,
+      "So to look at the number of carbon atoms that are directly connected to this carbon here."
+    ],
+    [36, "So this is what we call the alpha carbon."],
+    [
+      41,
+      "And if we count the number of carbon atoms, I have one here, I have two here."
+    ],
+    [
+      45,
+      "So if you look at this table, two is secondary, so I will just call it a secondary alcohol."
+    ],
+    [54, "This is from the hydroxyl group here."]
+  ],
+  "Drawing alkenes": [
+    [
+      0,
+      "Hi everyone, today we are going to learn how to draw alkene molecules using the skeletal formula."
+    ],
+    [
+      11,
+      "Alright so there are a couple of key points for us to take note here."
+    ],
+    [
+      15,
+      "Okay the first one is that we should sketch out the alkene without the cis-trans configuration so this makes it a lot easier."
+    ],
+    [
+      20,
+      "Alright so how do I do that? If you look at this portion of this molecule, alright this formula, you can see that it has six carbons, hexa."
+    ],
+    [
+      30,
+      "Alright so I can start drawing these six carbons first so one two three four five six carbons."
+    ],
+    [36, "Okay without caring about the cis-trans configuration."],
+    [40, "After that I know that it's a diene at positions two and four."],
+    [
+      45,
+      "Okay so what I'm going to do is that I'm going to label one two three four five and six."
+    ],
+    [
+      52,
+      "Alright between two and three there's one, between four and five there's one."
+    ],
+    [
+      57,
+      "So there's two and four.Okay so I've labeled the carbons then now I can start drawing my alkene."
+    ],
+    [
+      63,
+      "So I'll draw the first double bond first.Alright so in the first double bond it is at positions two and three."
+    ],
+    [
+      69,
+      "So I know that it is trans so I'm going to put this is one and then this will be four."
+    ],
+    [
+      76,
+      "Then I know that the second one is cis so I put my double bond is at my fourth and fifth position so the one is cis."
+    ],
+    [
+      85,
+      "Alright so this carbon number five and then I have carbon number, sorry carbon number five is here and then I have carbon number six here."
+    ],
+    [
+      94,
+      "So finally I want to check my answer.Alright I want to see that the first one is trans so this is trans and then the second one is cis."
+    ],
+    [99, "Alright so this is my answer here."],
+    [99, "Okay. Alright so this is my answer here. Okay."]
+  ],
+  "Number of equivalent hydrogen atoms": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about how we can identify the number of equivalent hydrogen atoms."
+    ],
+    [
+      11,
+      "This skill is important before you start drawing your free radical substitution mechanism."
+    ],
+    [
+      18,
+      "Alright so how should you go about looking at the number of equivalent hydrogen atoms? Alright there is a couple of tricks that I can teach you."
+    ],
+    [
+      27,
+      "Alright so the first trick is for you to identify and group the carbon atoms."
+    ],
+    [
+      32,
+      "Alright so you want to group carbon atoms with a similar environment by looking at the groups attached to it."
+    ],
+    [
+      37,
+      "So let's look at this molecule here and identify carbons with similar environments."
+    ],
+    [
+      42,
+      "So in this molecule I can spot three different environments. environments. So in this molecule I can spot three different environments."
+    ],
+    [46, "So I'm going to elaborate on it now."],
+    [
+      51,
+      "So the three different environments, this is the first one, this is the second one, and finally all the way at the center there's the third carbon with a similar environment."
+    ],
+    [
+      64,
+      "Alright so how do I tell that they are in the similar environment? So let's look at all our yellow carbons."
+    ],
+    [75, "You'll notice that they are all attached to three hydrogen atoms."],
+    [
+      81,
+      "And they are also attached to this large very very big group of this."
+    ],
+    [90, "So this whole chunk is attached to the carbon in yellow."],
+    [
+      96,
+      "So all three of them have this similar environment.So let's take a look at the blue carbon."
+    ],
+    [101, "So for the blue carbon you will realize that it is bonded to CH3."],
+    [
+      108,
+      "All of them are bonded to the same CH3 and all of them are also bonded to this large group over here."
+    ],
+    [
+      115,
+      "So this large group and this CH3 tells us that they are all in the same environment."
+    ],
+    [122, "And of course I've left out two more hydrogen atoms."],
+    [
+      128,
+      "So they must, all three of them have to be connected to these same two groups."
+    ],
+    [
+      133,
+      "And in the center if you take a look at this central carbon, realize that there's no one else that looks like it."
+    ],
+    [
+      144,
+      "So this is how we can identify and group carbon atoms with a similar environment."
+    ],
+    [
+      150,
+      "So the next step is to look at the carbon atom and see if it contains a hydrogen and then we will tally up the total number of hydrogens in that group of carbons."
+    ],
+    [
+      158,
+      "So how should I go about doing that? Let's label this central carbon as A, the blue ones as B and the yellow ones as C."
+    ],
+    [
+      174,
+      "So from our previous lessons we know that at point A I only have one hydrogen atom."
+    ],
+    [182, "At point B I have two.At point C I have three hydrogen atoms."],
+    [
+      187,
+      "So how do I calculate the total number of hydrogens? So I'll write down the ratio."
+    ],
+    [192, "A is to B is to C.A only has one hydrogen atom."],
+    [
+      200,
+      "B has three times two hydrogen atoms.So I have six.And then C has three times three hydrogen atoms."
+    ],
+    [
+      204,
+      "So I have nine.So this is the ratio of equivalent hydrogen atoms in A is to B is to C."
+    ]
+  ],
+  "Counting the number of carbon atoms": [
+    [
+      0,
+      "Hi everyone, today we are going to learn about how we can count the total number of carbons within a skeletal structure."
+    ],
+    [
+      8,
+      "So there is only one very important key point here, which is that every kink represents one carbon."
+    ],
+    [
+      16,
+      "So over here, the most straightforward way is to identify the kinks."
+    ],
+    [22, "And we can see that all of them have one carbon."],
+    [26, "So all together I have 5 kinks, which means I have 5 carbons."],
+    [
+      34,
+      "Then now we have to look for the rest of the carbons in this molecule."
+    ],
+    [38, "And we realize that there are 2 carbon atoms that are spelt out."],
+    [43, "So the letter C is spelt out."],
+    [45, "So I have 2 more carbons that are spelt out."],
+    [
+      49,
+      "And over here, I want you to realize that there is also another carbon at this point."
+    ],
+    [
+      55,
+      "So at that junction, at every junction, at every kink, there should be another carbon."
+    ],
+    [
+      61,
+      "So all together in this, we have 1, 2, 3, 4, 5, 6, 7, 8 carbons in total."
+    ],
+    [71, "So in total, we have 8 carbons."],
+    [76, "So this is how you can count the total number of carbons easily."],
+    [
+      82,
+      "So why is this skill so important? It's because whenever you answer questions, sometimes you need to see whether there is a change in number of carbons."
+    ],
+    [
+      94,
+      "And that will actually give you a clue to answer that question, whether it's a step-up reaction or whether it's a step-down reaction."
+    ],
+    [101, "So just a couple more points."],
+    [
+      103,
+      "The first point is that it is easy to draw the wrong number of carbons."
+    ],
+    [107, "It is a very common mistake."],
+    [
+      110,
+      "So it's a good practice to count it at the end every time you draw a skeletal structure."
+    ],
+    [
+      116,
+      "And also at times, there might be functional groups that are not represented in its skeletal structure."
+    ],
+    [122, "So in this case, this group here can be written as CN instead."],
+    [129, "So just ignore that."],
+    [130, "And COOH might be written in this form."],
+    [134, "Or it might just be written as COOH."],
+    [137, "So once you see this thing, just count the carbons respectively."]
+  ],
+  "Structure Elucidation": [
+    [
+      0,
+      "Hi everyone! In this lesson we are going to talk about how we can tackle structure elucidation questions."
+    ],
+    [
+      9,
+      "In fact you have actually learned most of these skills in the past few lessons under synthesis and distinguishing tests."
+    ],
+    [
+      15,
+      "So when it comes to structure elucidation questions it is where you put in all these skills together and gather some clues, piece them together."
+    ],
+    [
+      24,
+      "Okay so let's take a look at some of the key steps that you can take."
+    ],
+    [
+      28,
+      "Alright so like I mentioned it combines skills in both synthesis and distinguishing test questions."
+    ],
+    [
+      37,
+      "Your job is to collect clues and piece them together.So there's only one extra thing that I want to share with you and this is the power of counting."
+    ],
+    [
+      46,
+      "Alright so this idea of counting has helped me many many times in many situations to get the right answer."
+    ],
+    [
+      52,
+      "So what do I need to count? The first thing is for me to count or calculate the degree of unsaturation which is something that I've already taught you in a previous lesson."
+    ],
+    [63, "We also want to look at the C is to H ratio."],
+    [
+      70,
+      "So if the number of carbons is 6 and above alright and if the C-H ratio is 1 is to 1 or close to 1 is to 1 there is a high chance that you have a benzene ring."
+    ],
+    [
+      83,
+      "Alright but at the same time you can also have 6 carbons 1 2 3 4 5 6 carbons with 3 double bonds."
+    ],
+    [
+      91,
+      "So never ever rule out the possibility just know that there could be a chance that you have a benzene ring."
+    ],
+    [
+      101,
+      "Alright and if you have a benzene ring you'll notice that straight away the degree of unsaturation is 4."
+    ],
+    [106, "3 for the 3 double bonds inside and 1 for the ring."],
+    [
+      114,
+      "Next we can actually count the number of carbons outside of the benzene ring."
+    ],
+    [
+      121,
+      "So for example if you have C9H something you will know that if you see a C is to H ratio of almost 1 is to 1 something a little bit higher than that is fine."
+    ],
+    [
+      133,
+      "Alright you notice that this carbon has 6 sorry this molecule has 6 carbons in the benzene ring so I altogether I have 3 carbons outside."
+    ],
+    [
+      145,
+      "So this gives you a better chance of finding your answer because you can actually decide to split these 3 carbons into 3 0 as in all 3 of them into one spot or you can split it into 2 plus 1."
+    ],
+    [
+      158,
+      "So I can either have 3 carbons here or I can have 2 carbons and 1 carbon for example."
+    ],
+    [
+      167,
+      "Alright and the last thing that you can do is sometimes when the molecule has a phenol group or phenol amine and you react with a halogen for example chlorine or bromine you can that type of questions is to test you on the number of block sites."
+    ],
+    [
+      184,
+      "So we know that if we use a phenol and we react it with let's say bromine aqueous bromine we will get the 2,4,6 tri substituted product."
+    ],
+    [
+      202,
+      "Alright so just by looking at your answers sometimes you'll notice that we only only 2 bromine atoms are added to your answer so this suggests that one of these positions is actually blocked by some other groups as present but what it also means is that there are 3 other any additional groups can also be added into these 2 blank spots but just that this Br atom will only add to 2,4,6 it will not touch 3 and 5."
+    ],
+    [
+      241,
+      "So in the event that you have additional groups present more carbons more than 6 carbons present on your phenol okay and your product gives you 3 positions 2,4,6 positions substituted with your bromine and it has 9 carbons there is a very high chance that the carbons are here either 2 or 1 or like our previous example 3 carbons in the 3 or 5 position."
+    ],
+    [
+      267,
+      "Okay so these are some of the tricks that I can share with you when it comes to answering structure elucidation questions but ultimately you all you need to do is to get the clues identify and deduce what they are trying to what the clue is trying to tell you and lastly count."
+    ],
+    [
+      289,
+      "Alright always remember to count your atoms and I hope this is going to help you to answer more structure elucidation questions more accurately."
+    ],
+    [294, "Thank you. accurately. Thank you."]
+  ],
+  "Identifying hybridisation on carbon atom": [
+    [
+      0,
+      "Hi everyone, in this lesson we are going to talk about how we can quickly identify the hybridization of certain carbon atoms in a skeletal structure."
+    ],
+    [11, "So this is a shortcut method that you can use."],
+    [
+      16,
+      "So how should you go about doing that? You need to count the number of electron density regions for the different carbon atoms."
+    ],
+    [25, "So the first step really is to look for all your carbon atoms."],
+    [
+      30,
+      "So in this case these are where all my carbon atoms are.And in the past few lessons you have learned that you need to remember the hydrogen atoms that are present."
+    ],
+    [
+      38,
+      "So I'm going to fill them in.You should be able to do this even without writing them out."
+    ],
+    [
+      45,
+      "So with this we are going to count the number of electron density regions."
+    ],
+    [51, "So if I have two regions it will be sp hybridized."],
+    [
+      56,
+      "Three regions sp2 and four regions will be sp3.So let's take a look."
+    ],
+    [
+      63,
+      "So for all these bonds in this benzene ring, notice that there are three different electron density regions."
+    ],
+    [
+      70,
+      "1, 2 and 3.So therefore every single carbon atom in this benzene ring is sp2 hybridized."
+    ],
+    [
+      76,
+      "Whereas for this carbon here, it has four groups, four electron density regions attached to it."
+    ],
+    [
+      88,
+      "So it is sp3.Lastly for this carbon atom here, it has one group, sorry, two electron density regions."
+    ],
+    [
+      88,
+      "Therefore it is sp hybridized. one group, sorry, two electron density regions. Therefore it is sp hybridized."
+    ],
+    [
+      97,
+      "So this is just a shortcut method for you to identify the hybridization of different carbon atoms."
+    ],
+    [101, "Thank you. hybridization of different carbon atoms. Thank you."]
+  ],
+  "Mechanism drawing - Source to Sink": [
+    [
+      0,
+      "Hi everyone, welcome to the second lesson of mechanism drawing, identifying the source and the sink and knowing how to move our electrons, or rather we call them arrow pushing."
+    ],
+    [
+      11,
+      "Alright, so in the first lesson we talked about identifying nucleophiles and electrophiles, and in this lesson we are going to start moving electrons."
+    ],
+    [19, "So, just a number of key points, okay."],
+    [
+      19,
+      "The first key point is that electrons move from an electron source to an electron sink. So, just a number of key points, okay. The first key point is that electrons move from an electron source to an electron sink."
+    ],
+    [
+      27,
+      "In most cases, electron sources are your bonds, alright, single bond, double bond, triple bond."
+    ],
+    [34, "In our case of a double bond, it's our pi electrons, okay."],
+    [
+      34,
+      "We can also have our lone pairs of electrons that can move. In our case of a double bond, it's our pi electrons, okay. We can also have our lone pairs of electrons that can move."
+    ],
+    [
+      42,
+      "And for electron sinks, most of the time we are interested in moving our electrons to an atom."
+    ],
+    [
+      51,
+      "There are many other cases, but in general these are the examples that we have."
+    ],
+    [
+      58,
+      "So, the second step is that the full arrow will represent the movement of two electrons."
+    ],
+    [
+      65,
+      "So, if you only have a half arrow that looks like that, it just means one electron has moved."
+    ],
+    [71, "A full arrow represents the movement of two electrons."],
+    [76, "And lastly, it is important for you to take note of the charges."],
+    [
+      76,
+      "Alright, so let's take all three of these points and put them into our example here. And lastly, it is important for you to take note of the charges. Alright, so let's take all three of these points and put them into our example here."
+    ],
+    [
+      84,
+      "Alright, so over here we have a SN2 mechanism of nucleophilic substitution mechanism."
+    ],
+    [
+      91,
+      "And so, in the previous lesson we learned that there is a lone pair of electrons on our ammonia, on NH3."
+    ],
+    [98, "So, this is our nucleophile."],
+    [
+      98,
+      "We have an electrophile here because we have a delta plus carbon. So, this is our nucleophile. We have an electrophile here because we have a delta plus carbon."
+    ],
+    [106, "Because this chlorine is electronegative."],
+    [
+      106,
+      "So, you get a delta minus. Because this chlorine is electronegative. So, you get a delta minus."
+    ],
+    [
+      112,
+      "And how would the electrons move? They will move from a source to a sink."
+    ],
+    [116, "So, this is electron rich, so it's a source."],
+    [
+      116,
+      "The sink is our atom here. So, this is electron rich, so it's a source. The sink is our atom here."
+    ],
+    [121, "So, this is our first source to sink."],
+    [124, "And now I have to think about where the second arrow moves to."],
+    [
+      131,
+      "So, now if we take a look at this carbon, it is currently saturated."
+    ],
+    [
+      131,
+      "It already has four bonds. So, now if we take a look at this carbon, it is currently saturated. It already has four bonds."
+    ],
+    [138, "It has one bond to CH3, one to Cl2H2."],
+    [
+      145,
+      "If it takes in another NH3, it will now have five bonds, which it cannot hold."
+    ],
+    [
+      153,
+      "So, what will happen is that one of the bonds, the sigma bond, needs to break."
+    ],
+    [157, "And so, in this case, chlorine is the one that broke off."],
+    [162, "So, once again we go source to sink."],
+    [
+      162,
+      "The source is your sigma bond here. So, once again we go source to sink. The source is your sigma bond here."
+    ],
+    [167, "This is your source."],
+    [
+      167,
+      "Then chlorine atom is your sink. This is your source. Then chlorine atom is your sink."
+    ],
+    [171, "So, what will happen is that the source will move to the sink."],
+    [
+      176,
+      "And what we will get at the end of the day is, we have our NH3, and then one hydrogen, two hydrogen, one CH3."
+    ],
+    [191, "And then we will get our Cl atom out."],
+    [196, "But of course, this is not complete."],
+    [
+      196,
+      "I do not have a Cl atom out and my nitrogen has one missing charge. But of course, this is not complete. I do not have a Cl atom out and my nitrogen has one missing charge."
+    ],
+    [203, "So, let's take a look at the charges."],
+    [206, "The chlorine atom here received the whole bond."],
+    [209, "So, it received the electron."],
+    [
+      211,
+      "And one of the electrons in this double bond used to belong to chlorine."
+    ],
+    [
+      217,
+      "Sorry, in this sigma bond, one of the electrons used to belong to chlorine."
+    ],
+    [220, "The other electron belonged to this carbon atom."],
+    [
+      223,
+      "So, because it took away both of the electrons, this chlorine gets a negative charge."
+    ],
+    [230, "Because it has one additional electron now."],
+    [
+      232,
+      "On the other hand, nitrogen was the one who gave electrons to this carbon atom."
+    ],
+    [240, "That is why it will have a positive charge now."],
+    [
+      244,
+      "So, at the end of the day, we have to check if our charges are balanced."
+    ],
+    [
+      249,
+      "So, if you take a look here, there is one positive charge, one negative charge."
+    ],
+    [252, "It is neutral."],
+    [254, "And then we look at our reactants."],
+    [256, "Our reactants have no charges at all."],
+    [
+      256,
+      "They are both neutral. Our reactants have no charges at all. They are both neutral."
+    ],
+    [259, "So, it is correct."],
+    [
+      261,
+      "So, this is how we can do our arrow pushing and draw electrons from the source to the sink."
+    ],
+    [267, "And remember to take note of the charges."],
+    [270, "Thank you."]
+  ],
+  "Mechanism drawing - Identifying nucleophiles and electrophiles": [
+    [
+      0,
+      "Hi everyone, today I'm going to teach you one important skill behind drawing mechanisms."
+    ],
+    [
+      6,
+      "The first important skill behind drawing mechanisms is the ability to identify a nucleophile and an electrophile."
+    ],
+    [
+      14,
+      "In a reaction, we need both a nucleophile and an electrophile in order for that reaction to take place."
+    ],
+    [
+      21,
+      "Sometimes your nucleophiles and electrophiles can be in two different molecules."
+    ],
+    [
+      28,
+      "Sometimes it can be in the same molecule as an intramolecular reaction."
+    ],
+    [34, "Let's just go through the basics."],
+    [
+      34,
+      "Electrophiles are electron-poor species. Let's just go through the basics. Electrophiles are electron-poor species."
+    ],
+    [
+      40,
+      "They will usually have a partial positive charge or a full positive charge."
+    ],
+    [
+      47,
+      "This partial positive charge is your delta plus, as most of you will know."
+    ],
+    [53, "And your nucleophiles are electron-rich."],
+    [
+      53,
+      "They usually have a lone pair of electrons or pi electrons. And your nucleophiles are electron-rich. They usually have a lone pair of electrons or pi electrons."
+    ],
+    [61, "We have two examples here."],
+    [
+      61,
+      "We will use this chance to take a look at which of them is an electrophile and which of it is a nucleophile. We have two examples here. We will use this chance to take a look at which of them is an electrophile and which of it is a nucleophile."
+    ],
+    [
+      70,
+      "In the first example, it is very clear that there is a double bond here."
+    ],
+    [76, "So this should be your nucleophile, your pi electrons."],
+    [
+      81,
+      "By the one on the right, I hope you are able to see that this is a polar bond."
+    ],
+    [
+      87,
+      "Bromine being less electronegative will get a delta plus, Cl will get a delta minus."
+    ],
+    [93, "As you can see, there is this delta plus here."],
+    [
+      93,
+      "This makes it the electrophile. As you can see, there is this delta plus here. This makes it the electrophile."
+    ],
+    [
+      100,
+      "This is important because we are going to draw mechanisms in the next few lessons."
+    ],
+    [108, "Identifying the nucleophile and electrophile is important."],
+    [112, "Let's move on to the second example."],
+    [
+      114,
+      "We know that NH3 has a hidden lone pair of electrons that we did not draw in this diagram."
+    ],
+    [121, "This lone pair of electrons allows it to be a nucleophile."],
+    [126, "In the other example, we have an electronegative fluorine here."],
+    [131, "This carbon automatically gets a delta plus."],
+    [134, "As you can see, this delta plus means that it is an electrophile."],
+    [
+      140,
+      "Once again, identifying your nucleophile and electrophile is important before you even start drawing the mechanism."
+    ]
+  ],
+  "Determining Optical Activity": [
+    [
+      0,
+      "Hi everyone, in the last lesson we talked about enantiomers, diastereomers and meso-compounds."
+    ],
+    [
+      7,
+      "In this lesson we are going to combine those things and we are going to use it to determine optical activity."
+    ],
+    [
+      15,
+      "So the key points behind determining optical activity is that the shape of the reactor molecule or the intermediate affects the ability of the product mixture to rotate plane polarized light."
+    ],
+    [31, "Notice what I am concerned here is the product mixture."],
+    [
+      34,
+      "I am not just interested in the product, I am interested in the mixture itself."
+    ],
+    [
+      39,
+      "Why is that so? It is because sometimes you might have rhythmic mixture, sometimes you might have the pure enantiomers present."
+    ],
+    [
+      46,
+      "So the questions that we want to ask ourselves is does the molecule contain a chiral carbon? Does it have an internal plane of symmetry? Is it a rhythmic mixture? Because all these three points will not rotate plane polarized light."
+    ],
+    [71, "Let's take a look at these few examples here."],
+    [
+      76,
+      "We know that the structure or rather the shape of this ketone here is trigonal planar."
+    ],
+    [86, "So it is flat."],
+    [
+      88,
+      "And because it is flat, the CN nucleophile can either attack from the top or attack from the bottom at 50-50 chance."
+    ],
+    [
+      99,
+      "So this means that the final product will have an equal mix of both enantiomers."
+    ],
+    [104, "Therefore, it gives you a rhythmic mixture."],
+    [107, "But first and foremost, we need to draw the products."],
+    [
+      111,
+      "So if it attacks from the top and bottom, my final product will look like that."
+    ],
+    [118, "Of course, I have omitted HCN as the other reagent."],
+    [124, "And I will also get this as my product."],
+    [
+      130,
+      "And what you can realize is even if it is not flat, it does not contain a chiral carbon because two of these groups are exactly the same."
+    ],
+    [140, "They are both the methyl groups."],
+    [143, "So this molecule does not have a chiral carbon."],
+    [
+      147,
+      "So because it does not have a chiral carbon, it is unable to rotate plane polarized light."
+    ],
+    [
+      153,
+      "But even if it contains a chiral carbon at the end, let's say I change this to R1 and R2."
+    ],
+    [163, "If I have R1 here, R2 here, R1, R2, you will get a chiral carbon."],
+    [
+      171,
+      "But because both of these are present in 50-50 ratio or 1 is to 1 ratio, it will not rotate plane polarized light."
+    ],
+    [
+      181,
+      "So another example is this nucleophilic substitution SN2 mechanism."
+    ],
+    [188, "So this SN2 mechanism, I'm going to kick this group out."],
+    [
+      193,
+      "And what I will see is that I will get an inversion of configuration."
+    ],
+    [205, "I have my R2, R1 here."],
+    [
+      207,
+      "And this has a chiral carbon, it is a pure enantiomer, it will be able to rotate plane polarized light."
+    ],
+    [214, "So for the other example, it also does the same thing."],
+    [217, "It is able to show you an inversion of configuration."],
+    [224, "However, you have two similar groups here."],
+    [
+      227,
+      "So once again, like the previous case in our ketone, we know that there is no chiral carbon."
+    ],
+    [235, "There is no chiral carbon at all."],
+    [
+      237,
+      "So because there is no chiral center, it will not exhibit the ability to rotate plane polarized light."
+    ],
+    [
+      244,
+      "So just take note, just to reiterate again, if the product does not have a chiral carbon, it will not rotate plane polarized light."
+    ],
+    [
+      253,
+      "If the product has an internal plane of symmetry, it will not rotate plane polarized light."
+    ],
+    [
+      258,
+      "And if the product is a racemate mixture, which comes from planar molecules or intermediate, it will also not rotate plane polarized light."
+    ],
+    [
+      274,
+      "Alright, so this is how you can determine if a reaction will give you a product mixture that will give you an optical activity."
+    ]
+  ],
+  "Directing Effect": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about the directing effects of a directing group attached to a benzene ring."
+    ],
+    [
+      8,
+      "Knowing how to answer this type of question is important because this is the first step before you can go ahead with the drawing of the electrophilic substitution mechanism."
+    ],
+    [
+      21,
+      "So what I want you to do is I want you to think of this through this analogy that the directing group is like a traffic warden."
+    ],
+    [30, "What it does is that it directs a group, the incoming group."],
+    [36, "So it directs the incoming group."],
+    [
+      43,
+      "So this is the first idea, it is the one that directs the incoming group."
+    ],
+    [
+      46,
+      "And the other idea is that when you use it as the reference point, it is at position 1."
+    ],
+    [60, "So this is the reference."],
+    [63, "So just take note of that."],
+    [
+      65,
+      "So if I am using this metal group as a reference, this will be position 1."
+    ],
+    [
+      70,
+      "If I am using this hydroxyl group as a reference, this will be its position 1."
+    ],
+    [76, "So it is relative to the group that we are looking at."],
+    [
+      80,
+      "So let's take a look at the three different scenarios of directing groups."
+    ],
+    [
+      85,
+      "We have co-directing, where the two groups are added to the same position."
+    ],
+    [
+      91,
+      "And so the two groups are direct to the same position, and the new group will be added to the co-directed position."
+    ],
+    [100, "So if we look at the second example, we will be able to see this."],
+    [
+      105,
+      "So if I take the OH group as reference from your data booklet, you will know that it directs to this position here, this position, or this position."
+    ],
+    [
+      116,
+      "And if you take note of the NO2, it should direct to the 3rd position, which is here or here."
+    ],
+    [
+      123,
+      "So what this shows us is that both of them will direct to either this position or this position here."
+    ],
+    [130, "So we can form either of these products as the major product."],
+    [136, "So this is the first idea."],
+    [
+      140,
+      "The second idea is the idea of competition, where the two groups direct to different positions, and so the more activating group wins."
+    ],
+    [
+      150,
+      "So you can see that in the first example, our OH here, what it is going to do is that it is going to direct to these three positions."
+    ],
+    [
+      162,
+      "But for this methyl group here, it is going to direct to these three positions."
+    ],
+    [
+      169,
+      "So as we know that the OH group is more activating than the CH3 group, the methyl group, so it will be dominant."
+    ],
+    [
+      183,
+      "So what is going to happen is that we will only be able to direct to the green positions."
+    ],
+    [
+      190,
+      "And so since this position is occupied, it will not be filled, so we can either fill this position here or this position as our major product."
+    ],
+    [202, "So let's move on to our last case, where we talk about blockage."],
+    [207, "So I would like to use the analogy of a seed that is taken up."],
+    [211, "So the position is occupied, and so it does not get substituted."],
+    [215, "So we have seen the example previously."],
+    [217, "This position is blocked."],
+    [220, "So one more example."],
+    [222, "So take a look at this few reactants."],
+    [225, "You realize that the conditions are different."],
+    [229, "In the last case, we are using Br2 in aqueous condition."],
+    [
+      237,
+      "So what is going to happen is that you would know that this is a 2, 4, 6 tri substitution."
+    ],
+    [249, "So it is going to add to all three of these positions here."],
+    [254, "But what we can see is that one of these positions is blocked."],
+    [
+      259,
+      "So we can only form, we can only attach it to the fourth and sixth position."
+    ],
+    [
+      266,
+      "So how do you actually count this position here? Since this is our reference point, this is 1, we will move towards the direction where we can encounter another group at the earliest point in time."
+    ],
+    [281, "And this will be our methyl group."],
+    [283, "So this will be 2, 3, 4, 5, and 6."],
+    [290, "So these are the three different points for our directing effect."],
+    [293, "So just take note of them."],
+    [295, "So I'm going to repeat this again."],
+    [
+      297,
+      "We have our co-directing effect where two different groups direct to the same position."
+    ],
+    [301, "So the new group is added to the co-director position."],
+    [
+      303,
+      "We have competition where two different groups direct to different positions."
+    ],
+    [308, "And so the more activating group will win."],
+    [310, "It's the more dominating one."],
+    [312, "It will give you the major product."],
+    [
+      315,
+      "And lastly, blockage prevents the substitution reaction to occur at that position."
+    ],
+    [
+      325,
+      "So this is a summary of the directing effects for the electrophilic substitution mechanism."
+    ]
+  ],
+  "Different Observations": [
+    [
+      0,
+      "Hi everyone, in the last two lessons we talked about some of the things that we need to look out for when we are answering distinguishing test questions in this lesson we are going to look at some different classes of observations that we can expect to see."
+    ],
+    [
+      19,
+      "So two lessons ago we talked about difference in state, changes in colors, formation of PPT, stuff like that but all of these fall into three different categories so I'm going to elaborate more about that Firstly, when we conduct a distinguishing test there are a few types of observations that you can make."
+    ],
+    [
+      41,
+      "The first thing is that you have one of them that reacts while the other did not so this is the most basic one that people usually look out for."
+    ],
+    [
+      50,
+      "Sometimes both of them react but they react differently and lastly both will react but one of it will give something extra so in this case I'm going to show you the third example."
+    ],
+    [
+      60,
+      "So over here we have two alkenes and because they have the same functional groups, they are isomers of one another, the only thing that I can look at is probably some special reaction and if you realize if I react both of them with hot acidified KMnO4, what is going to happen is that it's going to cut these two bonds here and only in the second example will you get these two products."
+    ],
+    [90, "You'll get a carboxylic acid and also CO2 and H2O."],
+    [
+      99,
+      "In the first example you only get a carboxylic acid so using this reaction you should be able to realize that both of them will give the same observation but the one on the right will give you some effervescence that will give you a white PPT in lime water."
+    ],
+    [
+      117,
+      "So this is how we can look at different classes of observation within our distinguishing tests."
+    ]
+  ],
+  "Drawing Skeletal Structure from Condensed Structural Formula": [
+    [
+      0,
+      "Hi everyone, today we are going to talk about how we can convert a condensed structural formula into a skeletal formula."
+    ],
+    [
+      9,
+      "So before we start on this, I'm going to go through some of the rules that we can take to draw our skeletal structure."
+    ],
+    [
+      16,
+      "So the first rule is that we need to start from the left to the right."
+    ],
+    [22, "So this is how you can read a condensed formula."],
+    [25, "We read all the way from the left to the right."],
+    [29, "And the second thing that we need to take note is the parentheses."],
+    [33, "So we have three groups with parentheses here."],
+    [36, "So we need to know what these parentheses mean."],
+    [40, "So it can either be a repeating unit, or it can be a substituent."],
+    [
+      47,
+      "So what do I mean by repeating unit? Sometimes you will see these subscripts 2."
+    ],
+    [
+      53,
+      "It means that there are two of the same substituents attached to the same group."
+    ],
+    [61, "Either that or it is a repeating unit."],
+    [62, "So there are two of these CH2 groups in between."],
+    [67, "And the thing for you to take note is that CH3 is a terminal group."],
+    [
+      70,
+      "So if you take a look at this molecule, this segment here and this segment over here, this should be your terminal."
+    ],
+    [80, "So terminal means they are at the two ends."],
+    [87, "Then the next thing that we need to look at is this CH2."],
+    [90, "And we know that CH2 should be within the molecule."],
+    [
+      95,
+      "So what we need to do next is really to draw out all the bonds, which is what we are going to do now."
+    ],
+    [
+      102,
+      "So we are going to connect the main chain first before drawing out all the bonds."
+    ],
+    [108, "So let's identify what the main chain is."],
+    [113, "So the main chain is from this carbon, from the terminal carbon."],
+    [
+      117,
+      "Since we said that this is a repeating unit, so there are two of these connected together, it should connect to another carbon."
+    ],
+    [125, "And this carbon should connect to another carbon in most cases."],
+    [
+      131,
+      "And then lastly, we know that there are two of these at the other end."
+    ],
+    [
+      137,
+      "So how do we connect them together? What I would do is I would connect these three to this one and to this one first."
+    ],
+    [147, "I will treat this as a substituent group."],
+    [154, "This would be the easiest way to tackle such a question."],
+    [
+      157,
+      "So if I start first, I know that I have one carbon here, two carbons here, fourth carbon, fifth carbon."
+    ],
+    [165, "So my main chain should have five carbons."],
+    [169, "So let me count."],
+    [170, "One, two, three, four, and five."],
+    [174, "Just ensure that you have five carbons."],
+    [
+      177,
+      "And the next thing we want to do is we want to fill in all the bonds."
+    ],
+    [
+      181,
+      "So what we want to do is let's try to fill in all these hydrogen atoms."
+    ],
+    [189, "One CH3 at the end, one CH2, one CH2, one CH, and one OH."],
+    [199, "And then at this point, I have one hydrogen, I have two CH3."],
+    [
+      206,
+      "And the last part over here is for me to remove all my hydrogen atoms except for the one that is connected to the oxygen atom."
+    ],
+    [
+      216,
+      "So step four, what I'm going to do is I'm going to identify which are the atoms that I want to keep."
+    ],
+    [221, "This carbon, this is what I want to keep."],
+    [224, "With this OH, this CH3, and this CH3 here."],
+    [228, "So I'll redraw this whole skeletal structure."],
+    [233, "It should look something like this."],
+    [240, "I know it looks like it takes a lot of effort right now."],
+    [
+      244,
+      "So in the next few videos, I will teach you how you can train yourself to see this structure right away."
+    ],
+    [
+      255,
+      "So that is it on how you can draw skeletal structure from the condensed formula."
+    ],
+    [
+      262,
+      "So before I end up this video, I have two other points that I want to point out."
+    ],
+    [
+      268,
+      "The first point that I want to talk about is about the ambiguous cases that you might see sometimes."
+    ],
+    [275, "This time around, we actually have this OH group."],
+    [
+      279,
+      "It is very clear from this condensed formula that it is a substituent."
+    ],
+    [
+      286,
+      "But how do we tell that this OH is actually at the site? So we want to look at the number of bonds that oxygen can form."
+    ],
+    [
+      293,
+      "And we notice that it can only form, it should only form two bonds."
+    ],
+    [
+      300,
+      "So if one of them is used for hydrogen, the other one must be connected to one of the carbons."
+    ],
+    [307, "And so it's definitely not a case of C, O, and C as in ethers."],
+    [319, "So this is something that you need to take note."],
+    [321, "So you need to count the number of bonds."],
+    [
+      324,
+      "And these bonds would give you a clue as to how you can answer the question."
+    ],
+    [
+      330,
+      "And lastly, you need to know how different functional groups are represented."
+    ],
+    [334, "For example, aldehydes and ketones."],
+    [341, "They are represented in different forms."],
+    [343, "Aldehydes are written in the form of R, C, H, O."],
+    [348, "While ketones are written in the form of R, C, O, and R."],
+    [354, "So notice for ketones, we do read it from the left to right."],
+    [359, "R, C, O, then R."],
+    [
+      370,
+      "But for aldehydes, we go R, C, H, and then we go back again to this oxygen."
+    ],
+    [
+      371,
+      "All right, so I hope this video is able to help you to understand how you can draw skeletal structures from condensed formula much more easily."
+    ],
+    [381, "Thank you."]
+  ],
+  "Identifying omitted lone pairs and hydrogen atoms": [
+    [
+      0,
+      "Hi everyone, today I'm going to share with you two common mistakes that students make when they look at skeletal structures."
+    ],
+    [
+      7,
+      "Alright, so the first mistake that I want to talk about is that students sometimes forget that carbon atoms can have a maximum of four bonds."
+    ],
+    [
+      16,
+      "And in fact, you have to use all four bonds in this skeletal structure."
+    ],
+    [21, "Alright, so let me teach you how you can get rid of this mistake."],
+    [
+      26,
+      "So every time when you look at a skeletal structure, you have to remember that anything that is not filled in is a hydrogen atom."
+    ],
+    [
+      34,
+      "So in this case, I have two hydrogen atoms here, I have two hydrogen atoms, and in all these other positions."
+    ],
+    [
+      43,
+      "And one of the very common mistakes is when students forget that there is a hydrogen atom here, so you have to put this hydrogen atom down."
+    ],
+    [
+      52,
+      "And the second mistake that many students make is that they forget that heteroatoms, such as oxygen, nitrogen, and chlorine, have lone pairs of electrons."
+    ],
+    [
+      61,
+      "This is important because it can help you to explain factors like delocalization and hydrogen bonding."
+    ],
+    [
+      68,
+      "Alright, so let's fill in the rest of the lone pairs of electrons on this chlorine that should be three lone pairs of electrons, on this oxygen that should be two."
+    ],
+    [
+      79,
+      "Alright, so I just hope that through this lesson you will now take note of the invisible hydrogens and lone pairs of electrons."
+    ],
+    [88, "Thank you very much."]
+  ],
+  "Reducing Agents": [
+    [
+      0,
+      "Hi everyone, in this lesson we are going to talk about different reducing agents in the A-level syllabus."
+    ],
+    [7, "So there are three reducing agents that we usually look at."],
+    [
+      7,
+      "We have LILH4, H2Gas and NABH4. So there are three reducing agents that we usually look at. We have LILH4, H2Gas and NABH4."
+    ],
+    [
+      16,
+      "And what we need to take note is that the different reducing agents require different conditions and they have different relative strengths."
+    ],
+    [
+      21,
+      "Or rather they can undergo different reactions. and they have different relative strengths. Or rather they can undergo different reactions."
+    ],
+    [
+      29,
+      "So if we take a look at this molecule here, we are going to apply all three of these reagents and conditions to it and see what kind of products we will get."
+    ],
+    [
+      40,
+      "So let's say if we react this with LILH4 in dry ether, what we are going to get is the reduction of all these functional groups."
+    ],
+    [
+      55,
+      "So the first thing that we need to identify is the functional groups present in this molecule."
+    ],
+    [
+      61,
+      "So we know that we have a C-C double bond here, an alkene, we have a ketone and we also have a carboxylic acid."
+    ],
+    [
+      72,
+      "So for LILH4, it reacts with our ketones and carboxylic acids, so we should be able to get this molecule."
+    ],
+    [
+      87,
+      "A ketone will become an alcohol, a carboxylic acid will end up as a primary alcohol."
+    ],
+    [
+      92,
+      "So it is always a good practice to count the number of carbons, so in this case we have 1, 2, 3, 4, 5, 6 carbons, so it is correct."
+    ],
+    [
+      100,
+      "Next up, we can use hydrogen gas with the right catalyst at the right temperature, and you will be able to reduce alkenes and ketones, in this case not carboxylic acids."
+    ],
+    [114, "So our product will end up as this."],
+    [
+      122,
+      "Once again, we have to check the number of carbons, so 1, 2, 3, 4, 5, 6 carbons, it is correct."
+    ],
+    [
+      130,
+      "And lastly, if we use NaBH4, it only reacts with our ketones, so our final product will look like this."
+    ],
+    [
+      145,
+      "Once again, we have to check the number of carbons, so 1, 2, 3, 4, 5, 6, and it is correct."
+    ],
+    [
+      151,
+      "And so this is how we can apply reducing agents to different molecules to get different products."
+    ]
+  ],
+  "Oxidative Cleavage of C=C": [
+    [
+      0,
+      "Hi everyone, in this lesson we are going to talk about the oxidative cleavage of C-C double bonds."
+    ],
+    [
+      10,
+      "This can be done by reacting a molecule containing C-C double bonds with a hot acidified KMnO4."
+    ],
+    [
+      22,
+      "Okay so if you react this with hot KMnO4 there are a couple of steps that you can take."
+    ],
+    [25, "It is quite straightforward as long as you follow these rules."],
+    [
+      25,
+      "So the first rule is to cleave the C-C double bond. as you follow these rules. So the first rule is to cleave the C-C double bond."
+    ],
+    [
+      30,
+      "So every time you see a C-C double bond you just cut it at that point."
+    ],
+    [
+      35,
+      "Alright so after you cut it at that point what you want to do is you want to separate them and add an oxygen atom to the cleaved C-C double bond."
+    ],
+    [
+      48,
+      "So for example if I take this molecule and I split it up, it will look something like that."
+    ],
+    [
+      48,
+      "You can just draw it this way first. and I split it up, it will look something like that. You can just draw it this way first."
+    ],
+    [
+      60,
+      "So I separate them into this form and what I can do next is to put the oxygen atoms in."
+    ],
+    [69, "So I put the O here, O here, O, O, O and O."],
+    [
+      77,
+      "So the next thing that I want to do is to fill in all the hydrogen atoms."
+    ],
+    [
+      84,
+      "So there are hydrogen atoms here, there's hydrogen atom here, there's hydrogen atom here and two hydrogen atoms here."
+    ],
+    [
+      93,
+      "Alright so for every hydrogen atom present, add an oxygen atom in between the carbon atom and the oxygen and the hydrogen atom."
+    ],
+    [
+      101,
+      "So I'll put an oxygen atom here, one here, one here, one here and one here."
+    ],
+    [
+      110,
+      "Alright so if you take a look at statement number four, for terminal C-CH2 C-C double bonds, the products are CO2 and H2O."
+    ],
+    [118, "This is where you can find that fragment."],
+    [
+      130,
+      "So this fragment over here will turn into CO2 and H2O.Alright and we also know that for ethane dioic acid, it will further oxidize to form CO2 and H2O2."
+    ],
+    [
+      137,
+      "So if you take a look at this fragment, you will realize that it looks like this."
+    ],
+    [
+      147,
+      "So if we leave it long enough under this hot acidified KMnO4, it too will break up into CO2 and H2O."
+    ],
+    [
+      156,
+      "Alright so you can balance this equation on your own but what I want to focus on is actually the bulk of this molecule."
+    ],
+    [
+      163,
+      "Alright so if I were to redraw this molecule, what I will do is that I will label these carbons."
+    ],
+    [171, "I will label this one, two, three, four, five and six."],
+    [
+      177,
+      "So I have six carbons.If I draw them out, one, two, three, four, five, one, two, three, four, five, six carbons."
+    ],
+    [
+      184,
+      "Alright so after I have six carbons, okay at the first position, there will be a COOH group."
+    ],
+    [
+      192,
+      "Alright and at the fourth position, so one, two, three, four, at the fourth position there's C11O and at the sixth position, there is another C11O with another bond down."
+    ],
+    [
+      204,
+      "Alright so this is how we can cut this molecule up using hot acidified KMnO4 to give us both this product and CO2 with H2O."
+    ]
+  ],
+  "Electrophilic addition part 3": [
+    [
+      0,
+      "Hi everyone, so in the last lesson we talked about how we can form the intermediate and to identify the most stable intermediate."
+    ],
+    [
+      8,
+      "And in this lesson we will talk about the next step of the mechanism which requires us to identify the different nucleophiles present in our reaction mixture."
+    ],
+    [17, "So let's take a look at what nucleophiles we have left."],
+    [
+      22,
+      "So the first nucleophile is this Br- that was formed from the first step of the mechanism."
+    ],
+    [
+      28,
+      "I also have this aqueous which means that I have water molecules around and this water molecule is able to act as a nucleophile because of lone pair of electrons on oxygen atom."
+    ],
+    [
+      43,
+      "And I also have sodium chloride.When I dissolve sodium chloride in water, it will give me both Na+, and Cl-."
+    ],
+    [50, "So I also have Cl- as one of my nucleophiles."],
+    [
+      56,
+      "So now I need to decide which of these nucleophiles is most likely to connect to my intermediate."
+    ],
+    [64, "So I've identified that the most stable intermediate is this."],
+    [69, "And I have these three cases."],
+    [75, "So all three of them are able to add on to this positive charge."],
+    [
+      82,
+      "So they are able to give this lone pair of electrons to attack this positive carbocation."
+    ],
+    [
+      88,
+      "So all three of them can attack but now we need to choose which one is the most probable."
+    ],
+    [93, "So as you can see, in this case H2O is in huge excess."],
+    [
+      101,
+      "So because it is in huge excess, there is a higher chance purely based on probability that the carbocation will meet one of these H2O molecule and therefore it will attack to a higher chance."
+    ],
+    [
+      118,
+      "So what we can see here is that when H2O is the nucleophile, it will form our major product which is this product over here."
+    ],
+    [134, "Notice that the oxygen atom has a positive charge."],
+    [
+      141,
+      "And what comes after this step, this hydrogen atom or rather the proton will donate its electron back to this product and what we will get is actually a bromohydrin."
+    ],
+    [
+      156,
+      "So depending on the product, one of the nucleophiles could be the one that is picking up this proton but in this case we are not sure so we just leave it as such."
+    ],
+    [
+      177,
+      "And this will be our final product which is both of them are in step 3."
+    ],
+    [
+      184,
+      "So just to reiterate, there are many products that can be formed in this case."
+    ],
+    [190, "The other two products will be this and this."],
+    [
+      201,
+      "From this intermediate and then if we look at the minor product, this example is also going to give me three products."
+    ],
+    [
+      222,
+      "BR, Cl and OH.So just take note, the first step must always come from the electrophile."
+    ],
+    [227, "In this case is the BR atom."],
+    [
+      231,
+      "And the second step, the second substituent that's going to be added on should be from our nucleophiles."
+    ],
+    [
+      237,
+      "So this is the whole mechanism for our electrophile addition mechanism."
+    ],
+    [
+      242,
+      "So just make sure that you know all the different parts of this mechanism and know what are the top processes behind it."
+    ],
+    [246, "Thank you. know what are the top processes behind it. Thank you."]
+  ]
+}
