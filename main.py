@@ -201,9 +201,11 @@ def do_inference(query, top_k):
 print("Loading JSON files")
 
 # Load json files
-url_1 = "https://kwen1510.github.io/whereDoYouMean/extracted_texts.json"
-url_2 = "https://kwen1510.github.io/whereDoYouMean/full_playlist_links.json"
-url_3 = "https://kwen1510.github.io/whereDoYouMean/videos_full_text_embeddings.json"
+url_1 = "https://mendapararitik.github.io/SearchIT/extracted_texts.json"
+url_2 = "https://mendapararitik.github.io/SearchIT/full_playlist_links.json"
+url_3 = "https://mendapararitik.github.io/SearchIT/videos_full_text_embeddings.json"
+url_4 = "https://mendapararitik.github.io/SearchIT/videos_segments_embeddings_1.json"
+url_5 = "https://mendapararitik.github.io/SearchIT/videos_segments_embeddings_2.json"
 
 extracted_texts = load_json_file(url_1)
 full_playlist_links = load_json_file(url_2)
